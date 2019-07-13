@@ -1,86 +1,88 @@
 <!DOCTYPE html>
 <html>
-	<head>
 
-		<!-- Basic -->
-		<meta charset="utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">	
+<head>
 
-		<title>Home | IOL - Informatics Open Library</title>	
+	<!-- Basic -->
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-		<meta name="keywords" content="Open Library" />
-		<meta name="description" content="IOL - Informatics Open Library">
-		<meta name="author" content="ajiul.com">
+	<title>Home | IOL - Informatics Open Library</title>
 
-		<!-- Favicon -->
-		<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
-		<link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+	<meta name="keywords" content="Open Library" />
+	<meta name="description" content="IOL - Informatics Open Library">
+	<meta name="author" content="ajiul.com">
 
-		<!-- Mobile Metas -->
-		<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
+	<!-- Favicon -->
+	<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="img/apple-touch-icon.png">
 
-		<!-- Web Fonts  -->
-		<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700" rel="stylesheet" type="text/css">
+	<!-- Mobile Metas -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
 
-		<!-- Vendor CSS -->
-		<link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
-		<link rel="stylesheet" href="vendor/fontawesome-free/css/all.min.css">
-		<link rel="stylesheet" href="vendor/animate/animate.min.css">
-		<link rel="stylesheet" href="vendor/simple-line-icons/css/simple-line-icons.min.css">
-		<link rel="stylesheet" href="vendor/owl.carousel/assets/owl.carousel.min.css">
-		<link rel="stylesheet" href="vendor/owl.carousel/assets/owl.theme.default.min.css">
-		<link rel="stylesheet" href="vendor/magnific-popup/magnific-popup.min.css">
+	<!-- Web Fonts  -->
+	<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700" rel="stylesheet" type="text/css">
 
-		<!-- Theme CSS -->
-		<link rel="stylesheet" href="css/theme.css">
-		<link rel="stylesheet" href="css/theme-elements.css">
-		<link rel="stylesheet" href="css/theme-blog.css">
-		<link rel="stylesheet" href="css/theme-shop.css">
+	<!-- Vendor CSS -->
+	<link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" href="vendor/fontawesome-free/css/all.min.css">
+	<link rel="stylesheet" href="vendor/animate/animate.min.css">
+	<link rel="stylesheet" href="vendor/simple-line-icons/css/simple-line-icons.min.css">
+	<link rel="stylesheet" href="vendor/owl.carousel/assets/owl.carousel.min.css">
+	<link rel="stylesheet" href="vendor/owl.carousel/assets/owl.theme.default.min.css">
+	<link rel="stylesheet" href="vendor/magnific-popup/magnific-popup.min.css">
 
-		<!-- Current Page CSS -->
-		<link rel="stylesheet" href="vendor/rs-plugin/css/settings.css">
-		<link rel="stylesheet" href="vendor/rs-plugin/css/layers.css">
-		<link rel="stylesheet" href="vendor/rs-plugin/css/navigation.css">
-		
-		<!-- Demo CSS -->
-		<link rel="stylesheet" href="css/demos/demo-education.css">
+	<!-- Theme CSS -->
+	<link rel="stylesheet" href="css/theme.css">
+	<link rel="stylesheet" href="css/theme-elements.css">
+	<link rel="stylesheet" href="css/theme-blog.css">
+	<link rel="stylesheet" href="css/theme-shop.css">
 
-		<!-- Skin CSS -->
-		<link rel="stylesheet" href="css/skins/skin-education.css"> 
+	<!-- Current Page CSS -->
+	<link rel="stylesheet" href="vendor/rs-plugin/css/settings.css">
+	<link rel="stylesheet" href="vendor/rs-plugin/css/layers.css">
+	<link rel="stylesheet" href="vendor/rs-plugin/css/navigation.css">
 
-		<!-- Theme Custom CSS -->
-		<link rel="stylesheet" href="css/custom.css">
+	<!-- Demo CSS -->
+	<link rel="stylesheet" href="css/demos/demo-education.css">
 
-		<!-- Head Libs -->
-		<script src="vendor/modernizr/modernizr.min.js"></script>
+	<!-- Skin CSS -->
+	<link rel="stylesheet" href="css/skins/skin-education.css">
 
-	</head>
-	<body>
+	<!-- Theme Custom CSS -->
+	<link rel="stylesheet" href="css/custom.css">
 
-		<div class="body">
-			<header id="header" class="header-transparent header-semi-transparent header-semi-transparent-dark" data-plugin-options="{'stickyEnabled': true, 'stickyEnableOnBoxed': true, 'stickyEnableOnMobile': true, 'stickyChangeLogo': false, 'stickyStartAt': 52, 'stickySetTop': '-52px'}">
-				<div class="header-body border-top-0 bg-dark box-shadow-none">
-					<div class="header-top header-top-borders header-top-light-borders">
-						<div class="container h-100">
-							<div class="header-row h-100">
-								<div class="header-column justify-content-start">
-									<div class="header-row">
-										<nav class="header-nav-top">
-											<ul class="nav nav-pills">
-												<li class="nav-item nav-item-borders py-2 d-none d-sm-inline-flex">
-													<span class="ws-nowrap text-light pl-0"><span class="opacity-7">Phone:</span> <a class="text-light" href="tel:+1234567890">125 586 5555</a></span>
-												</li>
-												<li class="nav-item nav-item-borders py-2">
-													<span class="ws-nowrap text-light"><span class="opacity-7">Email:</span> <a class="text-light" href="mailto:info@porto.com">info@porto.com</a></span>
-												</li>
-												<li class="nav-item nav-item-borders py-2 d-none d-md-inline-flex">
-													<span class="ws-nowrap text-light"><span class="opacity-7">Time:</span> Mon-Sat 8:00am - 5:00pm</span>
-												</li>
-											</ul>
-										</nav>
-									</div>
+	<!-- Head Libs -->
+	<script src="vendor/modernizr/modernizr.min.js"></script>
+
+</head>
+
+<body>
+
+	<div class="body">
+		<header id="header" class="header-transparent header-semi-transparent header-semi-transparent-dark" data-plugin-options="{'stickyEnabled': true, 'stickyEnableOnBoxed': true, 'stickyEnableOnMobile': true, 'stickyChangeLogo': false, 'stickyStartAt': 52, 'stickySetTop': '-52px'}">
+			<div class="header-body border-top-0 bg-dark box-shadow-none">
+				<div class="header-top header-top-borders header-top-light-borders">
+					<div class="container h-100">
+						<div class="header-row h-100">
+							<div class="header-column justify-content-start">
+								<div class="header-row">
+									<nav class="header-nav-top">
+										<ul class="nav nav-pills">
+											<li class="nav-item nav-item-borders py-2 d-none d-sm-inline-flex">
+												<span class="ws-nowrap text-light pl-0"><span class="opacity-7">Phone:</span> <a class="text-light" href="tel:+62315939214">031 5939214 PABX 107</a></span>
+											</li>
+											<li class="nav-item nav-item-borders py-2">
+												<span class="ws-nowrap text-light"><span class="opacity-7">Email:</span> <a class="text-light" href="mailto:eva.mursidah@gmail.com">eva.mursidah@gmail.com</a></span>
+											</li>
+											<li class="nav-item nav-item-borders py-2 d-none d-md-inline-flex">
+												<span class="ws-nowrap text-light"><span class="opacity-7">Time:</span> Mon-Fri 8:00am - 3:00pm</span>
+											</li>
+										</ul>
+									</nav>
 								</div>
-								<!-- <div class="header-column justify-content-end">
+							</div>
+							<!-- <div class="header-column justify-content-end">
 									<div class="header-row">
 										<nav class="header-nav-top">
 											<ul class="nav nav-pills">
@@ -94,21 +96,26 @@
 										</nav>
 									</div>
 								</div> -->
-							</div>
 						</div>
 					</div>
-					<div class="header-container header-container-height-sm container">
-						<div class="header-row">
-							<div class="header-column">
-								<div class="header-row">
-									<div class="header-logo">
-										<a href="demo-education.html">
-											<img alt="Porto" width="100" height="48" src="img/demos/education/logo.png">
-										</a>
-									</div>
+				</div>
+				<div class="header-container header-container-height-sm container">
+					<div class="header-row">
+						<div class="header-column">
+							<div class="header-row">
+								<div class="header-logo">
+									<h1>
+										<strong>
+											<a href="demo-education.html">
+												<!-- <img alt="Porto" width="100" height="48" src="img/demos/education/logo.png"> -->
+												Informatics Open Library
+											</a>
+										</strong>
+									</h1>
 								</div>
 							</div>
-							<!-- <div class="header-column justify-content-end">
+						</div>
+						<!-- <div class="header-column justify-content-end">
 								<div class="header-row">
 									<div class="header-nav header-nav-links header-nav-dropdowns-dark header-nav-light-text order-2 order-lg-1">
 										<div class="header-nav-main header-nav-main-mobile-dark header-nav-main-square header-nav-main-dropdown-no-borders header-nav-main-effect-2 header-nav-main-sub-effect-1">
@@ -170,136 +177,67 @@
 									</div>
 								</div>
 							</div> -->
+					</div>
+				</div>
+			</div>
+		</header>
+
+		<div role="main" class="main">
+			<!-- Slider -->
+			<div class="slider-container rev_slider_wrapper" style="height: 740px;">
+				<div id="revolutionSlider" class="slider rev_slider manual" data-version="5.4.8">
+					<ul>
+						<li data-transition="fade">
+							<img src="img/demos/education/slides/slide-1.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-kenburns="on" data-duration="20000" data-ease="Linear.easeNone" data-scalestart="110" data-scaleend="100" data-offsetstart="250 100" class="rev-slidebg">
+
+							<h1 class="tp-caption font-weight-bold text-color-light text-center" data-x="center" data-y="center" data-voffset="['10','10','10','10']" data-width="['770','770','770','350']" data-start="1000" data-fontsize="['45','45','45','35']" data-lineheight="['56','56','50','40']" data-transform_in="y:[100%];opacity:0;s:500;" data-transform_out="opacity:0;s:500;" style="white-space: normal;">Complete Solution For Your Education Needs</h1>
+
+							<!-- <a class="tp-caption btn btn-primary text-1 font-weight-semibold custom-btn-style-1" href="#" data-x="center" data-y="center" data-voffset="['130','130','130','130']" data-start="1300" data-fontsize="['14','14','14','20']" data-paddingtop="['11','11','11','16']" data-paddingbottom="['11','11','11','16']" data-paddingleft="['32','32','32','42']" data-paddingright="['32','32','32','42']" data-transform_in="y:[100%];opacity:0;s:500;" data-transform_out="opacity:0;s:500;">ABOUT US</a> -->
+
+						</li>
+						<li data-transition="fade">
+							<img src="img/demos/education/slides/slide-2.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-kenburns="on" data-duration="20000" data-ease="Linear.easeNone" data-scalestart="110" data-scaleend="100" data-offsetstart="250 100" class="rev-slidebg">
+
+							<h1 class="tp-caption font-weight-bold text-color-dark text-center" data-x="center" data-y="center" data-voffset="['10','10','10','10']" data-width="['770','770','770','350']" data-start="1000" data-fontsize="['45','45','45','35']" data-lineheight="['56','56','50','40']" data-transform_in="y:[100%];opacity:0;s:500;" data-transform_out="opacity:0;s:500;" style="white-space: normal;">Your Future Is Coming For You, Get Ready!</h1>
+
+							<!-- <a class="tp-caption btn btn-primary text-1 font-weight-semibold custom-btn-style-1" href="#" data-x="center" data-y="center" data-voffset="['130','130','130','130']" data-start="1300" data-fontsize="['14','14','14','20']" data-paddingtop="['11','11','11','16']" data-paddingbottom="['11','11','11','16']" data-paddingleft="['32','32','32','42']" data-paddingright="['32','32','32','42']" data-transform_in="y:[100%];opacity:0;s:500;" data-transform_out="opacity:0;s:500;">OUR COURSES</a> -->
+
+						</li>
+					</ul>
+				</div>
+			</div>
+			<!-- About -->
+			<section class="section bg-color-light border-0 my-0">
+				<div class="container">
+					<div class="row justify-content-center">
+						<div class="col-md-12 text-center">
+							<h2 class="font-weight-bold mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1500">Our Services</h2>
+							<!-- <p class="text-color-dark pb-3 mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1700">Dalam rangka memaksimalkan pelayanan kami menyediakan beberapa layanan sebagai berikut.</p> -->
+							<a href="#" class="btn btn-primary text-1 btn-outline custom-btn-style-1 font-weight-semibold appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1900" data-plugin-options="{'accY': 100}">PANDUAN VPN</a>
+							<a href="https://docs.google.com/forms/d/e/1FAIpQLSc9XwfvTz-J3Y0QTrWUqumyiUO-PR9BLNw2mWGzkRXob7_A7w/viewform" class="btn btn-primary text-1 btn-outline custom-btn-style-1 font-weight-semibold appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1900" data-plugin-options="{'accY': 100}">LSS (LITERATURE SERACHING SERVICE)</a>
+							<a href="#" class="btn btn-primary text-1 btn-outline custom-btn-style-1 font-weight-semibold appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1900" data-plugin-options="{'accY': 100}">LO ITS</a>
+						</div>
+					</div>
+					<br>
+					<div class="row justify-content-center">
+						<div class="col-md-12 text-center">
+							<a href="http://rbtc.if.its.ac.id/v8/" class="btn btn-primary text-1 btn-outline custom-btn-style-1 font-weight-semibold appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1900" data-plugin-options="{'accY': 100}">SLIM (BAHASA INGGRIS)</a>
+							<a href="https://docs.google.com/forms/d/e/1FAIpQLScaldDlqxKNi0T3PZLEtBQ_iNnL8L3m1zr_GsRoN7gHBzZdpw/viewform" class="btn btn-primary text-1 btn-outline custom-btn-style-1 font-weight-semibold appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1900" data-plugin-options="{'accY': 100}">USULAN BUKU BARU</a>
+							<a href="https://docs.google.com/forms/d/e/1FAIpQLSfQy1HH8IbnJ52Wuk_WkE6kteBRNkhehFOtkWwzfyUHPJH1jw/viewform" class="btn btn-primary text-1 btn-outline custom-btn-style-1 font-weight-semibold appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1900" data-plugin-options="{'accY': 100}">KEPUASAN PENGGUNA</a>
 						</div>
 					</div>
 				</div>
-			</header>
-
-			<div role="main" class="main">
-				<!-- Slider -->
-				<div class="slider-container rev_slider_wrapper" style="height: 740px;">
-					<div id="revolutionSlider" class="slider rev_slider manual" data-version="5.4.8">
-						<ul>
-							<li data-transition="fade">
-								<img src="img/demos/education/slides/slide-1.jpg"  
-									alt=""
-									data-bgposition="center center" 
-									data-bgfit="cover" 
-									data-bgrepeat="no-repeat" 
-									data-kenburns="on" 
-									data-duration="20000" 
-									data-ease="Linear.easeNone" 
-									data-scalestart="110" 
-									data-scaleend="100" 
-									data-offsetstart="250 100" 
-									class="rev-slidebg">
-								
-								<h1 class="tp-caption font-weight-bold text-color-light text-center"
-									data-x="center"
-									data-y="center" data-voffset="['10','10','10','10']"
-									data-width="['770','770','770','350']"
-									data-start="1000"
-									data-fontsize="['45','45','45','35']"
-									data-lineheight="['56','56','50','40']"
-									data-transform_in="y:[100%];opacity:0;s:500;"
-									data-transform_out="opacity:0;s:500;"
-									style="white-space: normal;">Complete Solution For Your Education Needs</h1>
-
-								<a class="tp-caption btn btn-primary text-1 font-weight-semibold custom-btn-style-1"
-									href="#"
-									data-x="center"
-									data-y="center" data-voffset="['130','130','130','130']"
-									data-start="1300"
-									data-fontsize="['14','14','14','20']"
-									data-paddingtop="['11','11','11','16']"
-									data-paddingbottom="['11','11','11','16']"
-									data-paddingleft="['32','32','32','42']"
-									data-paddingright="['32','32','32','42']"
-									data-transform_in="y:[100%];opacity:0;s:500;"
-									data-transform_out="opacity:0;s:500;">ABOUT US</a>
-
-							</li>
-							<li data-transition="fade">
-								<img src="img/demos/education/slides/slide-2.jpg"  
-									alt=""
-									data-bgposition="center center" 
-									data-bgfit="cover" 
-									data-bgrepeat="no-repeat" 
-									data-kenburns="on" 
-									data-duration="20000" 
-									data-ease="Linear.easeNone" 
-									data-scalestart="110" 
-									data-scaleend="100" 
-									data-offsetstart="250 100" 
-									class="rev-slidebg">
-								
-								<h1 class="tp-caption font-weight-bold text-color-dark text-center"
-									data-x="center"
-									data-y="center" data-voffset="['10','10','10','10']"
-									data-width="['770','770','770','350']"
-									data-start="1000"
-									data-fontsize="['45','45','45','35']"
-									data-lineheight="['56','56','50','40']"
-									data-transform_in="y:[100%];opacity:0;s:500;"
-									data-transform_out="opacity:0;s:500;"
-									style="white-space: normal;">Your Future Is Coming For You, Get Ready!</h1>
-
-								<a class="tp-caption btn btn-primary text-1 font-weight-semibold custom-btn-style-1"
-									href="#"
-									data-x="center"
-									data-y="center" data-voffset="['130','130','130','130']"
-									data-start="1300"
-									data-fontsize="['14','14','14','20']"
-									data-paddingtop="['11','11','11','16']"
-									data-paddingbottom="['11','11','11','16']"
-									data-paddingleft="['32','32','32','42']"
-									data-paddingright="['32','32','32','42']"
-									data-transform_in="y:[100%];opacity:0;s:500;"
-									data-transform_out="opacity:0;s:500;">OUR COURSES</a>
-
-							</li>
-						</ul>
-					</div>
-                </div>
-                <!-- About -->
-				<section class="section bg-color-light border-0 my-0">
-					<div class="container">
-						<div class="row justify-content-center">
-							<div class="col-md-12 text-center">
-								<h2 class="font-weight-bold mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1500">Our Services</h2>
-								<!-- <p class="text-color-dark pb-3 mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1700">Dalam rangka memaksimalkan pelayanan kami menyediakan beberapa layanan sebagai berikut.</p> -->
-                                <a href="#" class="btn btn-primary text-1 btn-outline custom-btn-style-1 font-weight-semibold appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1900" data-plugin-options="{'accY': 100}">COMPLAINT</a>
-                                <a href="#" class="btn btn-primary text-1 btn-outline custom-btn-style-1 font-weight-semibold appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1900" data-plugin-options="{'accY': 100}">PANDUAN VPN</a>
-                                <a href="#" class="btn btn-primary text-1 btn-outline custom-btn-style-1 font-weight-semibold appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1900" data-plugin-options="{'accY': 100}">LO ITS</a>
-                                <a href="#" class="btn btn-primary text-1 btn-outline custom-btn-style-1 font-weight-semibold appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1900" data-plugin-options="{'accY': 100}">SLIM (BAHASA INGGRIS)</a>
-                            </div>
-                        </div>
-                        <br>
-                        <div class="row justify-content-center">
-                            <div class="col-md-12 text-center">
-                                <a href="#" class="btn btn-primary text-1 btn-outline custom-btn-style-1 font-weight-semibold appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1900" data-plugin-options="{'accY': 100}">SLIM (BAHASA INGGRIS)</a>
-                                <a href="https://docs.google.com/forms/d/e/1FAIpQLScaldDlqxKNi0T3PZLEtBQ_iNnL8L3m1zr_GsRoN7gHBzZdpw/viewform" class="btn btn-primary text-1 btn-outline custom-btn-style-1 font-weight-semibold appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1900" data-plugin-options="{'accY': 100}">USULAN BUKU BARU</a>
-                                <a href="https://docs.google.com/forms/d/e/1FAIpQLSfQy1HH8IbnJ52Wuk_WkE6kteBRNkhehFOtkWwzfyUHPJH1jw/viewform" class="btn btn-primary text-1 btn-outline custom-btn-style-1 font-weight-semibold appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1900" data-plugin-options="{'accY': 100}">KEPUASAN PENGGUNA</a>
-                            </div>
-                        </div>
-                        <br>
-                        <div class="row justify-content-center">
-                            <div class="col-md-12 text-center">
-                                <a href="https://docs.google.com/forms/d/e/1FAIpQLSc9XwfvTz-J3Y0QTrWUqumyiUO-PR9BLNw2mWGzkRXob7_A7w/viewform" class="btn btn-primary text-1 btn-outline custom-btn-style-1 font-weight-semibold appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1900" data-plugin-options="{'accY': 100}">LSS (LITERATURE SERACHING SERVICE)</a>
-                            </div>
+			</section>
+			<!-- Layanan -->
+			<section class="section bg-color-tertiary border-0 my-0">
+				<div class="container">
+					<div class="row">
+						<div class="col">
+							<h2 class="font-weight-bold text-center appear-animation" data-appear-animation="fadeInUpShorter">Lokal Konten</h2>
 						</div>
 					</div>
-                </section>
-                <!-- Layanan -->
-				<section class="section bg-color-tertiary border-0 my-0">
-					<div class="container">
-						<div class="row">
-							<div class="col">
-								<h2 class="font-weight-bold text-center appear-animation" data-appear-animation="fadeInUpShorter">Lokal Konten</h2>
-							</div>
-						</div>
-						<div class="row justify-content-center mb-5">
-							<!-- <div class="col-md-6 col-lg-4 col-xl-3 mb-4 pb-3 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="400">
+					<div class="row justify-content-center mb-5">
+						<!-- <div class="col-md-6 col-lg-4 col-xl-3 mb-4 pb-3 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="400">
 								<div class="thumb-info thumb-info-hide-wrapper-bg custom-thumb-info-style-1">
 									<div class="thumb-info-wrapper">
 										<a href="demo-education-courses-detail.html"><img src="img/demos/education/courses/course-1.jpg" class="img-fluid" alt=""></a>
@@ -318,64 +256,64 @@
 									</div>
 								</div>
 							</div> -->
-							<div class="col-md-6 col-lg-4 col-xl-3 mb-4 pb-3 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="200">
-								<div class="thumb-info thumb-info-hide-wrapper-bg custom-thumb-info-style-1">
-									<div class="thumb-info-wrapper">
-										<a href="http://rbtc.if.its.ac.id/v8/index.php?select_lang=my_MY"><img src="img/demos/education/courses/course-2.jpg" class="img-fluid" alt=""></a>
-										<div class="thumb-info-price bg-color-secondary font-weight-semibold">
-											<span>$585</span>
-										</div>
+						<div class="col-md-6 col-lg-4 col-xl-3 mb-4 pb-3 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="200">
+							<div class="thumb-info thumb-info-hide-wrapper-bg custom-thumb-info-style-1">
+								<div class="thumb-info-wrapper">
+									<a href="http://rbtc.if.its.ac.id/v8/index.php?select_lang=my_MY"><img src="img/demos/education/courses/course-2.jpg" class="img-fluid" alt=""></a>
+									<div class="thumb-info-price bg-color-secondary font-weight-semibold">
+										<span>Lokal Konten</span>
 									</div>
-									<div class="thumb-info-caption">
-										<h3 class="font-weight-semibold text-transform-none"><a href="http://rbtc.if.its.ac.id/v8/index.php?select_lang=my_MY" class="custom-link-color-dark">KATALOG ONLINE </a></h3>
-									</div>
-									<!-- <div class="thumb-info-footer">
+								</div>
+								<div class="thumb-info-caption">
+									<h3 class="font-weight-semibold text-transform-none"><a href="http://rbtc.if.its.ac.id/v8/index.php?select_lang=my_MY" class="custom-link-color-dark">KATALOG ONLINE </a></h3>
+								</div>
+								<!-- <div class="thumb-info-footer">
 										<ul class="nav text-1">
 											<li><a href="demo-education-courses-detail.html"><i class="far fa-user text-color-primary"></i> John Doe</a></li>
 											<li class="ml-3"><a href="demo-education-courses-detail.html"><i class="far fa-clock text-color-primary"></i> 48 Hours</a></li>
 										</ul>
 									</div> -->
-								</div>
 							</div>
-							<div class="col-md-6 col-lg-4 col-xl-3 mb-4 pb-3 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="200">
-								<div class="thumb-info thumb-info-hide-wrapper-bg custom-thumb-info-style-1">
-									<div class="thumb-info-wrapper">
-										<a href="http://yudisium.if.its.ac.id/"><img src="img/demos/education/courses/course-3.jpg" class="img-fluid" alt=""></a>
-										<div class="thumb-info-price bg-color-secondary font-weight-semibold">
-											<span>FREE</span>
-										</div>
+						</div>
+						<div class="col-md-6 col-lg-4 col-xl-3 mb-4 pb-3 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="200">
+							<div class="thumb-info thumb-info-hide-wrapper-bg custom-thumb-info-style-1">
+								<div class="thumb-info-wrapper">
+									<a href="http://yudisium.if.its.ac.id/"><img src="img/demos/education/courses/course-3.jpg" class="img-fluid" alt=""></a>
+									<div class="thumb-info-price bg-color-secondary font-weight-semibold">
+										<span>Lokal Konten</span>
 									</div>
-									<div class="thumb-info-caption">
-										<h3 class="font-weight-semibold text-transform-none"><a href="http://yudisium.if.its.ac.id/" class="custom-link-color-dark">REPOSITORI INFORMATIKA</a></h3>
-									</div>
-									<!-- <div class="thumb-info-footer">
+								</div>
+								<div class="thumb-info-caption">
+									<h3 class="font-weight-semibold text-transform-none"><a href="http://yudisium.if.its.ac.id/" class="custom-link-color-dark">REPOSITORI INFORMATIKA</a></h3>
+								</div>
+								<!-- <div class="thumb-info-footer">
 										<ul class="nav text-1">
 											<li><a href="demo-education-courses-detail.html"><i class="far fa-user text-color-primary"></i> John Doe</a></li>
 											<li class="ml-3"><a href="demo-education-courses-detail.html"><i class="far fa-clock text-color-primary"></i> 2 Hours</a></li>
 										</ul>
 									</div> -->
-								</div>
 							</div>
-							<div class="col-md-6 col-lg-4 col-xl-3 mb-4 pb-3 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="400">
-								<div class="thumb-info thumb-info-hide-wrapper-bg custom-thumb-info-style-1">
-									<div class="thumb-info-wrapper">
-										<a href="http://juti.if.its.ac.id/index.php/juti"><img src="img/demos/education/courses/course-4.jpg" class="img-fluid" alt=""></a>
-										<div class="thumb-info-price bg-color-secondary font-weight-semibold">
-											<span>FREE</span>
-										</div>
+						</div>
+						<div class="col-md-6 col-lg-4 col-xl-3 mb-4 pb-3 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="400">
+							<div class="thumb-info thumb-info-hide-wrapper-bg custom-thumb-info-style-1">
+								<div class="thumb-info-wrapper">
+									<a href="http://juti.if.its.ac.id/index.php/juti"><img src="img/demos/education/courses/course-4.jpg" class="img-fluid" alt=""></a>
+									<div class="thumb-info-price bg-color-secondary font-weight-semibold">
+										<span>Lokal Konten</span>
 									</div>
-									<div class="thumb-info-caption">
-										<h3 class="font-weight-semibold text-transform-none"><a href="http://juti.if.its.ac.id/index.php/juti" class="custom-link-color-dark">JUTI</a></h3>
-									</div>
-									<!-- <div class="thumb-info-footer">
+								</div>
+								<div class="thumb-info-caption">
+									<h3 class="font-weight-semibold text-transform-none"><a href="http://juti.if.its.ac.id/index.php/juti" class="custom-link-color-dark">JUTI</a></h3>
+								</div>
+								<!-- <div class="thumb-info-footer">
 										<ul class="nav text-1">
 											<li><a href="demo-education-courses-detail.html"><i class="far fa-user text-color-primary"></i> John Doe</a></li>
 											<li class="ml-3"><a href="demo-education-courses-detail.html"><i class="far fa-clock text-color-primary"></i> 1 Hour</a></li>
 										</ul>
 									</div> -->
-								</div>
 							</div>
-							<!-- <div class="col-md-6 col-lg-4 col-xl-3 mb-4 pb-3 mb-xl-0 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="600">
+						</div>
+						<!-- <div class="col-md-6 col-lg-4 col-xl-3 mb-4 pb-3 mb-xl-0 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="600">
 								<div class="thumb-info thumb-info-hide-wrapper-bg custom-thumb-info-style-1">
 									<div class="thumb-info-wrapper">
 										<a href="demo-education-courses-detail.html"><img src="img/demos/education/courses/course-5.jpg" class="img-fluid" alt=""></a>
@@ -451,196 +389,209 @@
 									</div>
 								</div>
 							</div> -->
-                        </div>
-                        <div class="row">
-							<div class="col">
-								<h2 class="font-weight-bold text-center appear-animation" data-appear-animation="fadeInUpShorter">Electronic Resources</h2>
-							</div>
+					</div>
+					<div class="row">
+						<div class="col">
+							<h2 class="font-weight-bold text-center appear-animation" data-appear-animation="fadeInUpShorter">Electronic Resources</h2>
 						</div>
-						<div class="row justify-content-center mb-5">
-							<div class="col-md-6 col-lg-4 col-xl-3 mb-4 pb-3 mb-xl-0 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800">
-								<div class="thumb-info thumb-info-hide-wrapper-bg custom-thumb-info-style-1">
-									<div class="thumb-info-wrapper">
-										<a href="http://library.its.ac.id/page/detail/jurnal-online"><img src="img/demos/education/courses/course-6.jpg" class="img-fluid" alt=""></a>
-										<div class="thumb-info-price bg-color-secondary font-weight-semibold">
-											<span>$456</span>
-										</div>
-									</div>
-									<div class="thumb-info-caption">
-										<h3 class="font-weight-semibold text-transform-none"><a href="http://library.its.ac.id/page/detail/jurnal-online" class="custom-link-color-dark">PERPUSTAKAAN ITS</a></h3>
+					</div>
+					<div class="row justify-content-center mb-5">
+						<div class="col-md-6 col-lg-4 col-xl-3 mb-4 pb-3 mb-xl-0 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800">
+							<div class="thumb-info thumb-info-hide-wrapper-bg custom-thumb-info-style-1">
+								<div class="thumb-info-wrapper">
+									<a href="http://library.its.ac.id/page/detail/jurnal-online"><img src="img/demos/education/courses/course-6.jpg" class="img-fluid" alt=""></a>
+									<div class="thumb-info-price bg-color-secondary font-weight-semibold">
+										<span>Electronic Resources</span>
 									</div>
 								</div>
-							</div>
-							<div class="col-md-6 col-lg-4 col-xl-3 mb-4 pb-3 mb-md-0 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="900">
-								<div class="thumb-info thumb-info-hide-wrapper-bg custom-thumb-info-style-1">
-									<div class="thumb-info-wrapper">
-										<a href="http://e-resources.perpusnas.go.id/"><img src="img/demos/education/courses/course-7.jpg" class="img-fluid" alt=""></a>
-										<div class="thumb-info-price bg-color-secondary font-weight-semibold">
-											<span>FREE</span>
-										</div>
-									</div>
-									<div class="thumb-info-caption">
-										<h3 class="font-weight-semibold text-transform-none"><a href="http://e-resources.perpusnas.go.id/" class="custom-link-color-dark">PERPUSTAKAAN  NASIONAL</a></h3>
-									</div>
-								</div>
-							</div>
-							<div class="col-md-6 col-lg-4 col-xl-3 pb-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1000">
-								<div class="thumb-info thumb-info-hide-wrapper-bg custom-thumb-info-style-1">
-									<div class="thumb-info-wrapper">
-										<a href="https://perpustakaan.kemdikbud.go.id/jurnal-internasional"><img src="img/demos/education/courses/course-8.jpg" class="img-fluid" alt=""></a>
-										<div class="thumb-info-price bg-color-secondary font-weight-semibold">
-											<span>$500</span>
-										</div>
-									</div>
-									<div class="thumb-info-caption">
-										<h3 class="font-weight-semibold text-transform-none"><a href="https://perpustakaan.kemdikbud.go.id/jurnal-internasional" class="custom-link-color-dark">PERPUSTAKAAN DIKTI</a></h3>
-									</div>
-								</div>
-							</div>
-                        </div>
-                        <div class="row">
-							<div class="col">
-								<h2 class="font-weight-bold text-center appear-animation" data-appear-animation="fadeInUpShorter">Open Access</h2>
-							</div>
-						</div>
-						<div class="row justify-content-center mb-5">
-							<div class="col-md-6 col-lg-4 col-xl-3 mb-4 pb-3 mb-xl-0 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800">
-								<div class="thumb-info thumb-info-hide-wrapper-bg custom-thumb-info-style-1">
-									<div class="thumb-info-wrapper">
-										<a href="http://onesearch.id/"><img src="img/demos/education/courses/course-6.jpg" class="img-fluid" alt=""></a>
-										<div class="thumb-info-price bg-color-secondary font-weight-semibold">
-											<span>$456</span>
-										</div>
-									</div>
-									<div class="thumb-info-caption">
-										<h3 class="font-weight-semibold text-transform-none"><a href="http://onesearch.id/" class="custom-link-color-dark">INDONESIA ONE SEARCH</a></h3>
-									</div>
-								</div>
-							</div>
-							<div class="col-md-6 col-lg-4 col-xl-3 mb-4 pb-3 mb-md-0 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="900">
-								<div class="thumb-info thumb-info-hide-wrapper-bg custom-thumb-info-style-1">
-									<div class="thumb-info-wrapper">
-										<a href="https://doaj.org/"><img src="img/demos/education/courses/course-7.jpg" class="img-fluid" alt=""></a>
-										<div class="thumb-info-price bg-color-secondary font-weight-semibold">
-											<span>FREE</span>
-										</div>
-									</div>
-									<div class="thumb-info-caption">
-										<h3 class="font-weight-semibold text-transform-none"><a href="https://doaj.org/" class="custom-link-color-dark">DOAJ</a></h3>
-									</div>
-								</div>
-							</div>
-							<div class="col-md-6 col-lg-4 col-xl-3 pb-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1000">
-								<div class="thumb-info thumb-info-hide-wrapper-bg custom-thumb-info-style-1">
-									<div class="thumb-info-wrapper">
-										<a href="http://id.portalgaruda.org/?ref=home"><img src="img/demos/education/courses/course-8.jpg" class="img-fluid" alt=""></a>
-										<div class="thumb-info-price bg-color-secondary font-weight-semibold">
-											<span>$500</span>
-										</div>
-									</div>
-									<div class="thumb-info-caption">
-										<h3 class="font-weight-semibold text-transform-none"><a href="http://id.portalgaruda.org/?ref=home" class="custom-link-color-dark">GARUDA</a></h3>
-									</div>
-								</div>
-                            </div>
-                            <div class="col-md-6 col-lg-4 col-xl-3 mb-4 pb-3 mb-xl-0 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="600">
-								<div class="thumb-info thumb-info-hide-wrapper-bg custom-thumb-info-style-1">
-									<div class="thumb-info-wrapper">
-										<a href="http://arjuna.ristekdikti.go.id/"><img src="img/demos/education/courses/course-5.jpg" class="img-fluid" alt=""></a>
-										<div class="thumb-info-price bg-color-secondary font-weight-semibold">
-											<span>$222</span>
-										</div>
-									</div>
-									<div class="thumb-info-caption">
-										<h3 class="font-weight-semibold text-transform-none"><a href="http://arjuna.ristekdikti.go.id/" class="custom-link-color-dark">ARJUNA</a></h3>
-									</div>
+								<div class="thumb-info-caption">
+									<h3 class="font-weight-semibold text-transform-none"><a href="http://library.its.ac.id/page/detail/jurnal-online" class="custom-link-color-dark">PERPUSTAKAAN ITS</a></h3>
 								</div>
 							</div>
 						</div>
-						<!-- <div class="row">
+						<div class="col-md-6 col-lg-4 col-xl-3 mb-4 pb-3 mb-md-0 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="900">
+							<div class="thumb-info thumb-info-hide-wrapper-bg custom-thumb-info-style-1">
+								<div class="thumb-info-wrapper">
+									<a href="http://e-resources.perpusnas.go.id/"><img src="img/demos/education/courses/course-7.jpg" class="img-fluid" alt=""></a>
+									<div class="thumb-info-price bg-color-secondary font-weight-semibold">
+										<span>Electronic Resources</span>
+									</div>
+								</div>
+								<div class="thumb-info-caption">
+									<h3 class="font-weight-semibold text-transform-none"><a href="http://e-resources.perpusnas.go.id/" class="custom-link-color-dark">PERPUSTAKAAN NASIONAL</a></h3>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 col-lg-4 col-xl-3 pb-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1000">
+							<div class="thumb-info thumb-info-hide-wrapper-bg custom-thumb-info-style-1">
+								<div class="thumb-info-wrapper">
+									<a href="https://perpustakaan.kemdikbud.go.id/jurnal-internasional"><img src="img/demos/education/courses/course-8.jpg" class="img-fluid" alt=""></a>
+									<div class="thumb-info-price bg-color-secondary font-weight-semibold">
+										<span>Electronic Resources</span>
+									</div>
+								</div>
+								<div class="thumb-info-caption">
+									<h3 class="font-weight-semibold text-transform-none"><a href="https://perpustakaan.kemdikbud.go.id/jurnal-internasional" class="custom-link-color-dark">PERPUSTAKAAN DIKTI</a></h3>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col">
+							<h2 class="font-weight-bold text-center appear-animation" data-appear-animation="fadeInUpShorter">Open Access</h2>
+						</div>
+					</div>
+					<div class="row justify-content-center mb-5">
+						<div class="col-md-6 col-lg-4 col-xl-3 mb-4 pb-3 mb-xl-0 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800">
+							<div class="thumb-info thumb-info-hide-wrapper-bg custom-thumb-info-style-1">
+								<div class="thumb-info-wrapper">
+									<a href="http://onesearch.id/"><img src="img/demos/education/courses/course-6.jpg" class="img-fluid" alt=""></a>
+									<div class="thumb-info-price bg-color-secondary font-weight-semibold">
+										<span>Open Access</span>
+									</div>
+								</div>
+								<div class="thumb-info-caption">
+									<h3 class="font-weight-semibold text-transform-none"><a href="http://onesearch.id/" class="custom-link-color-dark">INDONESIA ONE SEARCH</a></h3>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 col-lg-4 col-xl-3 mb-4 pb-3 mb-md-0 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="900">
+							<div class="thumb-info thumb-info-hide-wrapper-bg custom-thumb-info-style-1">
+								<div class="thumb-info-wrapper">
+									<a href="https://doaj.org/"><img src="img/demos/education/courses/course-7.jpg" class="img-fluid" alt=""></a>
+									<div class="thumb-info-price bg-color-secondary font-weight-semibold">
+										<span>Open Access</span>
+									</div>
+								</div>
+								<div class="thumb-info-caption">
+									<h3 class="font-weight-semibold text-transform-none"><a href="https://doaj.org/" class="custom-link-color-dark">DOAJ</a></h3>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 col-lg-4 col-xl-3 pb-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1000">
+							<div class="thumb-info thumb-info-hide-wrapper-bg custom-thumb-info-style-1">
+								<div class="thumb-info-wrapper">
+									<a href="http://id.portalgaruda.org/?ref=home"><img src="img/demos/education/courses/course-8.jpg" class="img-fluid" alt=""></a>
+									<div class="thumb-info-price bg-color-secondary font-weight-semibold">
+										<span>Open Access</span>
+									</div>
+								</div>
+								<div class="thumb-info-caption">
+									<h3 class="font-weight-semibold text-transform-none"><a href="http://id.portalgaruda.org/?ref=home" class="custom-link-color-dark">GARUDA</a></h3>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 col-lg-4 col-xl-3 mb-4 pb-3 mb-xl-0 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="600">
+							<div class="thumb-info thumb-info-hide-wrapper-bg custom-thumb-info-style-1">
+								<div class="thumb-info-wrapper">
+									<a href="http://arjuna.ristekdikti.go.id/"><img src="img/demos/education/courses/course-5.jpg" class="img-fluid" alt=""></a>
+									<div class="thumb-info-price bg-color-secondary font-weight-semibold">
+										<span>Open Access</span>
+									</div>
+								</div>
+								<div class="thumb-info-caption">
+									<h3 class="font-weight-semibold text-transform-none"><a href="http://arjuna.ristekdikti.go.id/" class="custom-link-color-dark">ARJUNA</a></h3>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 col-lg-4 col-xl-3 mb-4 pb-3 mb-xl-0 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="600">
+							<div class="thumb-info thumb-info-hide-wrapper-bg custom-thumb-info-style-1">
+								<div class="thumb-info-wrapper">
+									<a href="http://www.ithenticate.com/"><img src="img/demos/education/courses/course-5.jpg" class="img-fluid" alt=""></a>
+									<div class="thumb-info-price bg-color-secondary font-weight-semibold">
+										<span>Open Access</span>
+									</div>
+								</div>
+								<div class="thumb-info-caption">
+									<h3 class="font-weight-semibold text-transform-none"><a href="http://www.ithenticate.com/" class="custom-link-color-dark">ITHENTICATED</a></h3>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- <div class="row">
 							<div class="col text-center">
 								<a href="#" class="btn btn-primary text-1 btn-outline custom-btn-style-1 font-weight-semibold">VIEW ALL</a>
 							</div>
 						</div> -->
-					</div>
-                </section>
-                <!-- SIM-LITABMAS -->
-				<section class="section parallax section-parallax my-0 border-0" data-plugin-parallax data-plugin-options="{'speed': 1.5, 'parallaxHeight': '125%'}" data-image-src="img/demos/education/parallax/parallax-1.jpg">
-					<div class="container">
-						<div class="row">
-							<div class="col-md-11 col-lg-11 col-xl-11 appear-animation" data-appear-animation="fadeInLeftShorter">
-								<div class="card">
-									<div class="embed-responsive embed-responsive-16by9">
-                                        <!-- <iframe scrolling="auto" class="embed-responsive-item" src="http://simlitabmas.ristekdikti.go.id/ejournal/Default.aspx"></iframe> -->
-                                        <iframe name="frame1" scrolling="auto" src="http://simlitabmas.ristekdikti.go.id/ejournal/Default.aspx" style="border: none;" width="100%" height="100%" frameborder="yes"></iframe>
-									</div>
+				</div>
+			</section>
+			<!-- SIM-LITABMAS -->
+			<section class="section parallax section-parallax my-0 border-0" data-plugin-parallax data-plugin-options="{'speed': 1.5, 'parallaxHeight': '125%'}" data-image-src="img/demos/education/parallax/parallax-1.jpg">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-11 col-lg-11 col-xl-11 appear-animation" data-appear-animation="fadeInLeftShorter">
+							<div class="card">
+								<div class="embed-responsive embed-responsive-16by9">
+									<!-- <iframe scrolling="auto" class="embed-responsive-item" src="http://simlitabmas.ristekdikti.go.id/ejournal/Default.aspx"></iframe> -->
+									<iframe name="frame1" scrolling="auto" src="http://simlitabmas.ristekdikti.go.id/ejournal/Default.aspx" style="border: none;" width="100%" height="100%" frameborder="yes"></iframe>
 								</div>
 							</div>
 						</div>
 					</div>
-                </section>
-                <!-- Testimoni -->
-				<section class="section bg-color-light border-0 my-0">
-					<div class="container">
-						<div class="row text-center">
-							<div class="col">
-								<h2 class="font-weight-bold mb-4 appear-animation" data-appear-animation="fadeInUpShorter">What Students Says</h2>
-							</div>
+				</div>
+			</section>
+			<!-- Testimoni -->
+			<section class="section bg-color-light border-0 my-0">
+				<div class="container">
+					<div class="row text-center">
+						<div class="col">
+							<h2 class="font-weight-bold mb-4 appear-animation" data-appear-animation="fadeInUpShorter">What Students Says</h2>
 						</div>
-						<div class="row justify-content-center appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="200">
-							<div class="col">
-								<div class="owl-carousel custom-nav m-0" data-plugin-options="{'items': 1, 'loop': false, 'dots': false, 'nav': true, 'autoHeight': true}">
-									<div class="row justify-content-center">
-										<div class="col-lg-10">
-											<div class="testimonial testimonial-style-2 testimonial-with-quotes custom-testimonial-style-1">
-												<blockquote>
-													<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse in arcu facilisis quam aliquam ultrices quis in purus. Donec volutpat et justo et viverra. Suspendisse id justo a ipsum viverra ultrices quis et quam.</p>
-												</blockquote>
-												<div class="testimonial-author">
-													<img src="img/demos/education/authors/author-1.jpg" class="img-fluid rounded-circle" alt />
-													<p>
-														<strong class="text-uppercase text-color-dark">ALICE DOE</strong>
-													</p>
-													<div class="rate">
-														<i class="fas fa-star"></i>
-														<i class="fas fa-star"></i>
-														<i class="fas fa-star"></i>
-														<i class="fas fa-star"></i>
-														<i class="fas fa-star"></i>
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-									<div class="row justify-content-center">
-										<div class="col-lg-10">
-											<div class="testimonial testimonial-style-2 testimonial-with-quotes custom-testimonial-style-1">
-												<blockquote>
-													<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse in arcu facilisis quam aliquam ultrices quis in purus. Donec volutpat et justo et viverra. Suspendisse id justo a ipsum viverra ultrices quis et quam.</p>
-												</blockquote>
-												<div class="testimonial-author">
-													<img src="img/demos/education/authors/author-2.jpg" class="img-fluid rounded-circle" alt />
-													<p>
-														<strong class="text-uppercase text-color-dark">JOSIE DOE</strong>
-													</p>
-													<div class="rate">
-														<i class="fas fa-star"></i>
-														<i class="fas fa-star"></i>
-														<i class="fas fa-star"></i>
-														<i class="fas fa-star"></i>
-														<i class="fas fa-star"></i>
-													</div>
+					</div>
+					<div class="row justify-content-center appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="200">
+						<div class="col">
+							<div class="owl-carousel custom-nav m-0" data-plugin-options="{'items': 1, 'loop': false, 'dots': false, 'nav': true, 'autoHeight': true}">
+								<div class="row justify-content-center">
+									<div class="col-lg-10">
+										<div class="testimonial testimonial-style-2 testimonial-with-quotes custom-testimonial-style-1">
+											<blockquote>
+												<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse in arcu facilisis quam aliquam ultrices quis in purus. Donec volutpat et justo et viverra. Suspendisse id justo a ipsum viverra ultrices quis et quam.</p>
+											</blockquote>
+											<div class="testimonial-author">
+												<!-- <img src="img/demos/education/authors/author-1.jpg" class="img-fluid rounded-circle" alt /> -->
+												<p>
+													<strong class="text-uppercase text-color-dark">ALICE DOE</strong>
+												</p>
+												<div class="rate">
+													<i class="fas fa-star"></i>
+													<i class="fas fa-star"></i>
+													<i class="fas fa-star"></i>
+													<i class="fas fa-star"></i>
+													<i class="fas fa-star"></i>
 												</div>
 											</div>
 										</div>
 									</div>
 								</div>
+								<div class="row justify-content-center">
+									<div class="col-lg-10">
+										<div class="testimonial testimonial-style-2 testimonial-with-quotes custom-testimonial-style-1">
+											<blockquote>
+												<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse in arcu facilisis quam aliquam ultrices quis in purus. Donec volutpat et justo et viverra. Suspendisse id justo a ipsum viverra ultrices quis et quam.</p>
+											</blockquote>
+											<div class="testimonial-author">
+												<!-- <img src="img/demos/education/authors/author-2.jpg" class="img-fluid rounded-circle" alt /> -->
+												<p>
+													<strong class="text-uppercase text-color-dark">JOSIE DOE</strong>
+												</p>
+												<div class="rate">
+													<i class="fas fa-star"></i>
+													<i class="fas fa-star"></i>
+													<i class="fas fa-star"></i>
+													<i class="fas fa-star"></i>
+													<i class="fas fa-star"></i>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
 							</div>
 						</div>
 					</div>
-                </section>
-                <!-- latest News -->
-				<!-- <section class="section bg-color-tertiary border-0 my-0">
+				</div>
+			</section>
+			<!-- latest News -->
+			<!-- <section class="section bg-color-tertiary border-0 my-0">
 					<div class="container">
 						<div class="row">
 							<div class="col text-center">
@@ -687,8 +638,8 @@
 						</div>
 					</div>
                 </section> -->
-                
-				<!-- <section class="section parallax section-parallax my-0 border-0" data-plugin-parallax data-plugin-options="{'speed': 1.5, 'parallaxHeight': '125%'}" data-image-src="img/demos/education/parallax/parallax-2.jpg">
+
+			<!-- <section class="section parallax section-parallax my-0 border-0" data-plugin-parallax data-plugin-options="{'speed': 1.5, 'parallaxHeight': '125%'}" data-image-src="img/demos/education/parallax/parallax-2.jpg">
 					<div class="container mt-5">
 						<div class="row">
 							<div class="col-md-12 col-lg-6">
@@ -781,14 +732,17 @@
 			<footer id="footer" class="bg-color-quaternary border-top-0 mt-0">
 				<div class="container">
 					<div class="row justify-content-between pt-5 pb-4">
-						<div class="col-md-5 col-lg-3 mb-4 mb-lg-0">
+						<div class="col-md-6 col-lg-6 mb-6 mb-lg-6">
 							<h2 class="font-weight-semibold text-color-light text-6 mb-3">Contact Details</h2>
-							<p>Porto Education 123 <br>Porto Blvd, Suite</p>
+							<p>Jl. Teknik Kimia - Gedung Informatika
+								Kampus Institut Teknologi Sepuluh Nopember Surabaya
+								Jalan Raya ITS, Sukolilo, Surabaya 60111, Indonesia
+							</p>
 							<span class="d-block text-5 mb-2">
-								Call: <a href="tel:+1234567890" class="text-3">123-456-7890</a>
+								Call: <a href="tel:++62315939214" class="text-3">031 5939214 PABX 107</a>
 							</span>
 							<span class="d-block text-5 mb-4">
-								Email: <a href="mailto:info@porto.com" class="text-3">info@porto.com</a>
+								Email: <a href="mailto:eva.mursidah@gmail.com" class="text-3">eva.mursidah@gmail.com</a>
 							</span>
 							<ul class="social-icons social-icons-transparent">
 								<li class="social-icons-facebook"><a href="http://www.facebook.com/" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a></li>
@@ -796,7 +750,7 @@
 								<li class="social-icons-linkedin"><a href="http://www.linkedin.com/" target="_blank" title="Linkedin"><i class="fab fa-linkedin-in"></i></a></li>
 							</ul>
 						</div>
-						<div class="col-md-7 col-lg-4 mb-4 mb-lg-0">
+						<!-- <div class="col-md-7 col-lg-4 mb-4 mb-lg-0">
 							<div class="row">
 								<div class="col">
 									<h2 class="font-weight-semibold text-color-light text-6 mb-3">Courses</h2>
@@ -849,7 +803,7 @@
 									</div>
 								</div>
 							</div>
-						</div>
+						</div> -->
 					</div>
 				</div>
 				<div class="footer-copyright bg-color-quaternary border-top-0">
@@ -882,25 +836,25 @@
 		<script src="vendor/vide/jquery.vide.min.js"></script>
 		<script src="vendor/vivus/vivus.min.js"></script>
 		<script src="vendor/jquery.countdown/jquery.countdown.min.js"></script>
-		
+
 		<!-- Theme Base, Components and Settings -->
 		<script src="js/theme.js"></script>
-		
+
 		<!-- Current Page Vendor and Views -->
 		<script src="vendor/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
 		<script src="vendor/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
 
-		
+
 
 		<!-- Current Page Vendor and Views -->
 		<script src="js/views/view.contact.js"></script>
 
 		<!-- Demo -->
 		<script src="js/demos/demo-education.js"></script>
-		
+
 		<!-- Theme Custom -->
 		<script src="js/custom.js"></script>
-		
+
 		<!-- Theme Initialization Files -->
 		<script src="js/theme.init.js"></script>
 
@@ -921,5 +875,6 @@
 
 
 
-	</body>
+</body>
+
 </html>
