@@ -104,9 +104,10 @@
 						<div class="header-column">
 							<div class="header-row">
 								<div class="header-logo">
+									<br>
 									<h1>
 										<strong>
-											<a href="demo-education.html">
+											<a href="{{url('/')}}">
 												<!-- <img alt="Porto" width="100" height="48" src="img/demos/education/logo.png"> -->
 												Informatics Open Library
 											</a>
@@ -188,7 +189,7 @@
 				<div id="revolutionSlider" class="slider rev_slider manual" data-version="5.4.8">
 					<ul>
 						<li data-transition="fade">
-							<img src="img/demos/education/slides/slide-1.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-kenburns="on" data-duration="20000" data-ease="Linear.easeNone" data-scalestart="110" data-scaleend="100" data-offsetstart="250 100" class="rev-slidebg">
+							<img src="/openlibrary/img/rbtc1.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-kenburns="on" data-duration="20000" data-ease="Linear.easeNone" data-scalestart="110" data-scaleend="100" data-offsetstart="250 100" class="rev-slidebg">
 
 							<h1 class="tp-caption font-weight-bold text-color-light text-center" data-x="center" data-y="center" data-voffset="['10','10','10','10']" data-width="['770','770','770','350']" data-start="1000" data-fontsize="['45','45','45','35']" data-lineheight="['56','56','50','40']" data-transform_in="y:[100%];opacity:0;s:500;" data-transform_out="opacity:0;s:500;" style="white-space: normal;">Complete Solution For Your Education Needs</h1>
 
@@ -196,9 +197,9 @@
 
 						</li>
 						<li data-transition="fade">
-							<img src="img/demos/education/slides/slide-2.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-kenburns="on" data-duration="20000" data-ease="Linear.easeNone" data-scalestart="110" data-scaleend="100" data-offsetstart="250 100" class="rev-slidebg">
+							<img src="/openlibrary/img/rbtc2.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-kenburns="on" data-duration="20000" data-ease="Linear.easeNone" data-scalestart="110" data-scaleend="100" data-offsetstart="250 100" class="rev-slidebg">
 
-							<h1 class="tp-caption font-weight-bold text-color-dark text-center" data-x="center" data-y="center" data-voffset="['10','10','10','10']" data-width="['770','770','770','350']" data-start="1000" data-fontsize="['45','45','45','35']" data-lineheight="['56','56','50','40']" data-transform_in="y:[100%];opacity:0;s:500;" data-transform_out="opacity:0;s:500;" style="white-space: normal;">Your Future Is Coming For You, Get Ready!</h1>
+							<h1 class="tp-caption font-weight-bold text-color-light text-center" data-x="center" data-y="center" data-voffset="['10','10','10','10']" data-width="['770','770','770','350']" data-start="1000" data-fontsize="['45','45','45','35']" data-lineheight="['56','56','50','40']" data-transform_in="y:[100%];opacity:0;s:500;" data-transform_out="opacity:0;s:500;" style="white-space: normal;">Your Future Is Coming For You, Get Ready!</h1>
 
 							<!-- <a class="tp-caption btn btn-primary text-1 font-weight-semibold custom-btn-style-1" href="#" data-x="center" data-y="center" data-voffset="['130','130','130','130']" data-start="1300" data-fontsize="['14','14','14','20']" data-paddingtop="['11','11','11','16']" data-paddingbottom="['11','11','11','16']" data-paddingleft="['32','32','32','42']" data-paddingright="['32','32','32','42']" data-transform_in="y:[100%];opacity:0;s:500;" data-transform_out="opacity:0;s:500;">OUR COURSES</a> -->
 
@@ -206,29 +207,31 @@
 					</ul>
 				</div>
 			</div>
-			<!-- About -->
+			<!-- Layanan -->
 			<section class="section bg-color-light border-0 my-0">
 				<div class="container">
 					<div class="row justify-content-center">
 						<div class="col-md-12 text-center">
 							<h2 class="font-weight-bold mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1500">Our Services</h2>
 							<!-- <p class="text-color-dark pb-3 mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1700">Dalam rangka memaksimalkan pelayanan kami menyediakan beberapa layanan sebagai berikut.</p> -->
-							<a href="#" class="btn btn-primary text-1 btn-outline custom-btn-style-1 font-weight-semibold appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1900" data-plugin-options="{'accY': 100}">PANDUAN VPN</a>
+							<!-- <a href="#" class="btn btn-primary text-1 btn-outline custom-btn-style-1 font-weight-semibold appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1900" data-plugin-options="{'accY': 100}">LO ITS</a> -->
+							<p>
 							<a href="https://docs.google.com/forms/d/e/1FAIpQLSc9XwfvTz-J3Y0QTrWUqumyiUO-PR9BLNw2mWGzkRXob7_A7w/viewform" class="btn btn-primary text-1 btn-outline custom-btn-style-1 font-weight-semibold appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1900" data-plugin-options="{'accY': 100}">LSS (LITERATURE SERACHING SERVICE)</a>
-							<a href="#" class="btn btn-primary text-1 btn-outline custom-btn-style-1 font-weight-semibold appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1900" data-plugin-options="{'accY': 100}">LO ITS</a>
-						</div>
-					</div>
-					<br>
-					<div class="row justify-content-center">
-						<div class="col-md-12 text-center">
-							<a href="http://rbtc.if.its.ac.id/v8/" class="btn btn-primary text-1 btn-outline custom-btn-style-1 font-weight-semibold appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1900" data-plugin-options="{'accY': 100}">SLIM (BAHASA INGGRIS)</a>
+							</p>
+							<p>
+							<a href="/openlibrary/pdf/Akses_VPN_untuk_Dosen_Tendik_dan_Mahasiswa.pdf" class="btn btn-primary text-1 btn-outline custom-btn-style-1 font-weight-semibold appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1900" data-plugin-options="{'accY': 100}">PANDUAN VPN</a>
+							</p>
+							<p>
 							<a href="https://docs.google.com/forms/d/e/1FAIpQLScaldDlqxKNi0T3PZLEtBQ_iNnL8L3m1zr_GsRoN7gHBzZdpw/viewform" class="btn btn-primary text-1 btn-outline custom-btn-style-1 font-weight-semibold appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1900" data-plugin-options="{'accY': 100}">USULAN BUKU BARU</a>
+							</p>
+							<p>
 							<a href="https://docs.google.com/forms/d/e/1FAIpQLSfQy1HH8IbnJ52Wuk_WkE6kteBRNkhehFOtkWwzfyUHPJH1jw/viewform" class="btn btn-primary text-1 btn-outline custom-btn-style-1 font-weight-semibold appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1900" data-plugin-options="{'accY': 100}">KEPUASAN PENGGUNA</a>
+							</p>
 						</div>
 					</div>
 				</div>
 			</section>
-			<!-- Layanan -->
+			<!-- Resources -->
 			<section class="section bg-color-tertiary border-0 my-0">
 				<div class="container">
 					<div class="row">
@@ -259,7 +262,7 @@
 						<div class="col-md-6 col-lg-4 col-xl-3 mb-4 pb-3 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="200">
 							<div class="thumb-info thumb-info-hide-wrapper-bg custom-thumb-info-style-1">
 								<div class="thumb-info-wrapper">
-									<a href="http://rbtc.if.its.ac.id/v8/index.php?select_lang=my_MY"><img src="img/demos/education/courses/course-2.jpg" class="img-fluid" alt=""></a>
+									<a href="http://rbtc.if.its.ac.id/v8/index.php?select_lang=my_MY"><img src="/openlibrary/img/its.png" class="img-fluid" alt=""></a>
 									<div class="thumb-info-price bg-color-secondary font-weight-semibold">
 										<span>Lokal Konten</span>
 									</div>
@@ -278,7 +281,7 @@
 						<div class="col-md-6 col-lg-4 col-xl-3 mb-4 pb-3 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="200">
 							<div class="thumb-info thumb-info-hide-wrapper-bg custom-thumb-info-style-1">
 								<div class="thumb-info-wrapper">
-									<a href="http://yudisium.if.its.ac.id/"><img src="img/demos/education/courses/course-3.jpg" class="img-fluid" alt=""></a>
+									<a href="http://yudisium.if.its.ac.id/"><img src="/openlibrary/img/its.png" class="img-fluid" alt=""></a>
 									<div class="thumb-info-price bg-color-secondary font-weight-semibold">
 										<span>Lokal Konten</span>
 									</div>
@@ -297,7 +300,7 @@
 						<div class="col-md-6 col-lg-4 col-xl-3 mb-4 pb-3 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="400">
 							<div class="thumb-info thumb-info-hide-wrapper-bg custom-thumb-info-style-1">
 								<div class="thumb-info-wrapper">
-									<a href="http://juti.if.its.ac.id/index.php/juti"><img src="img/demos/education/courses/course-4.jpg" class="img-fluid" alt=""></a>
+									<a href="http://juti.if.its.ac.id/index.php/juti"><img src="/openlibrary/img/its.png" class="img-fluid" alt=""></a>
 									<div class="thumb-info-price bg-color-secondary font-weight-semibold">
 										<span>Lokal Konten</span>
 									</div>
@@ -396,10 +399,23 @@
 						</div>
 					</div>
 					<div class="row justify-content-center mb-5">
+					<div class="col-md-6 col-lg-4 col-xl-3 pb-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1000">
+							<div class="thumb-info thumb-info-hide-wrapper-bg custom-thumb-info-style-1">
+								<div class="thumb-info-wrapper">
+									<a href="https://libraries.acm.org/"><img src="/openlibrary/img/acm_logo_tablet.jpg" class="img-fluid" alt=""></a>
+									<div class="thumb-info-price bg-color-secondary font-weight-semibold">
+										<span>Electronic Resources</span>
+									</div>
+								</div>
+								<div class="thumb-info-caption">
+									<h3 class="font-weight-semibold text-transform-none"><a href="https://libraries.acm.org/" class="custom-link-color-dark">Journal ACM digital library</a></h3>
+								</div>
+							</div>
+						</div>
 						<div class="col-md-6 col-lg-4 col-xl-3 mb-4 pb-3 mb-xl-0 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800">
 							<div class="thumb-info thumb-info-hide-wrapper-bg custom-thumb-info-style-1">
 								<div class="thumb-info-wrapper">
-									<a href="http://library.its.ac.id/page/detail/jurnal-online"><img src="img/demos/education/courses/course-6.jpg" class="img-fluid" alt=""></a>
+									<a href="http://library.its.ac.id/page/detail/jurnal-online"><img src="/openlibrary/img/perpusits.jpg" class="img-fluid" alt=""></a>
 									<div class="thumb-info-price bg-color-secondary font-weight-semibold">
 										<span>Electronic Resources</span>
 									</div>
@@ -412,7 +428,7 @@
 						<div class="col-md-6 col-lg-4 col-xl-3 mb-4 pb-3 mb-md-0 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="900">
 							<div class="thumb-info thumb-info-hide-wrapper-bg custom-thumb-info-style-1">
 								<div class="thumb-info-wrapper">
-									<a href="http://e-resources.perpusnas.go.id/"><img src="img/demos/education/courses/course-7.jpg" class="img-fluid" alt=""></a>
+									<a href="http://e-resources.perpusnas.go.id/"><img src="/openlibrary/img/perpusnasional.png" class="img-fluid" alt=""></a>
 									<div class="thumb-info-price bg-color-secondary font-weight-semibold">
 										<span>Electronic Resources</span>
 									</div>
@@ -425,13 +441,65 @@
 						<div class="col-md-6 col-lg-4 col-xl-3 pb-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1000">
 							<div class="thumb-info thumb-info-hide-wrapper-bg custom-thumb-info-style-1">
 								<div class="thumb-info-wrapper">
-									<a href="https://perpustakaan.kemdikbud.go.id/jurnal-internasional"><img src="img/demos/education/courses/course-8.jpg" class="img-fluid" alt=""></a>
+									<a href="https://perpustakaan.kemdikbud.go.id/jurnal-internasional"><img src="/openlibrary/img/perpusdikbud.png" class="img-fluid" alt=""></a>
 									<div class="thumb-info-price bg-color-secondary font-weight-semibold">
 										<span>Electronic Resources</span>
 									</div>
 								</div>
 								<div class="thumb-info-caption">
 									<h3 class="font-weight-semibold text-transform-none"><a href="https://perpustakaan.kemdikbud.go.id/jurnal-internasional" class="custom-link-color-dark">PERPUSTAKAAN DIKTI</a></h3>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 col-lg-4 col-xl-3 mb-4 pb-3 mb-xl-0 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="600">
+							<div class="thumb-info thumb-info-hide-wrapper-bg custom-thumb-info-style-1">
+								<div class="thumb-info-wrapper">
+									<a href="http://repository.its.ac.id/"><img src="/openlibrary/img/its.png" class="img-fluid" alt=""></a>
+									<div class="thumb-info-price bg-color-secondary font-weight-semibold">
+										<span>Electronic Resources</span>
+									</div>
+								</div>
+								<div class="thumb-info-caption">
+									<h3 class="font-weight-semibold text-transform-none"><a href="http://repository.its.ac.id/" class="custom-link-color-dark">INSTITUSIONAL REPOSITORY</a></h3>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 col-lg-4 col-xl-3 mb-4 pb-3 mb-xl-0 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="600">
+							<div class="thumb-info thumb-info-hide-wrapper-bg custom-thumb-info-style-1">
+								<div class="thumb-info-wrapper">
+									<a href="https://www.scopus.com/home.uri"><img src="/openlibrary/img/scopus.png" class="img-fluid" alt=""></a>
+									<div class="thumb-info-price bg-color-secondary font-weight-semibold">
+										<span>Electronic Resources</span>
+									</div>
+								</div>
+								<div class="thumb-info-caption">
+									<h3 class="font-weight-semibold text-transform-none"><a href="https://www.scopus.com/home.uri" class="custom-link-color-dark">SCOPUS</a></h3>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 col-lg-4 col-xl-3 mb-4 pb-3 mb-xl-0 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="600">
+							<div class="thumb-info thumb-info-hide-wrapper-bg custom-thumb-info-style-1">
+								<div class="thumb-info-wrapper">
+									<a href="http://sinta2.ristekdikti.go.id/journals/detail?id=3056"><img src="/openlibrary/img/sinta.jpg" class="img-fluid" alt=""></a>
+									<div class="thumb-info-price bg-color-secondary font-weight-semibold">
+										<span>Electronic Resources</span>
+									</div>
+								</div>
+								<div class="thumb-info-caption">
+									<h3 class="font-weight-semibold text-transform-none"><a href="http://sinta2.ristekdikti.go.id/journals/detail?id=3056" class="custom-link-color-dark">SINTA</a></h3>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 col-lg-4 col-xl-3 mb-4 pb-3 mb-xl-0 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="600">
+							<div class="thumb-info thumb-info-hide-wrapper-bg custom-thumb-info-style-1">
+								<div class="thumb-info-wrapper">
+									<a href="http://www.ithenticate.com/"><img src="/openlibrary/img/ithenticated.png" class="img-fluid" alt=""></a>
+									<div class="thumb-info-price bg-color-secondary font-weight-semibold">
+										<span>Electronic Resources</span>
+									</div>
+								</div>
+								<div class="thumb-info-caption">
+									<h3 class="font-weight-semibold text-transform-none"><a href="http://www.ithenticate.com/" class="custom-link-color-dark">ITHENTICATED</a></h3>
 								</div>
 							</div>
 						</div>
@@ -445,7 +513,7 @@
 						<div class="col-md-6 col-lg-4 col-xl-3 mb-4 pb-3 mb-xl-0 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800">
 							<div class="thumb-info thumb-info-hide-wrapper-bg custom-thumb-info-style-1">
 								<div class="thumb-info-wrapper">
-									<a href="http://onesearch.id/"><img src="img/demos/education/courses/course-6.jpg" class="img-fluid" alt=""></a>
+									<a href="http://onesearch.id/"><img src="/openlibrary/img/onesearch.png" class="img-fluid" alt=""></a>
 									<div class="thumb-info-price bg-color-secondary font-weight-semibold">
 										<span>Open Access</span>
 									</div>
@@ -458,7 +526,7 @@
 						<div class="col-md-6 col-lg-4 col-xl-3 mb-4 pb-3 mb-md-0 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="900">
 							<div class="thumb-info thumb-info-hide-wrapper-bg custom-thumb-info-style-1">
 								<div class="thumb-info-wrapper">
-									<a href="https://doaj.org/"><img src="img/demos/education/courses/course-7.jpg" class="img-fluid" alt=""></a>
+									<a href="https://doaj.org/"><img src="/openlibrary/img/doaj.jpg" class="img-fluid" alt=""></a>
 									<div class="thumb-info-price bg-color-secondary font-weight-semibold">
 										<span>Open Access</span>
 									</div>
@@ -471,7 +539,7 @@
 						<div class="col-md-6 col-lg-4 col-xl-3 pb-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1000">
 							<div class="thumb-info thumb-info-hide-wrapper-bg custom-thumb-info-style-1">
 								<div class="thumb-info-wrapper">
-									<a href="http://id.portalgaruda.org/?ref=home"><img src="img/demos/education/courses/course-8.jpg" class="img-fluid" alt=""></a>
+									<a href="http://id.portalgaruda.org/?ref=home"><img src="/openlibrary/img/garuda.png" class="img-fluid" alt=""></a>
 									<div class="thumb-info-price bg-color-secondary font-weight-semibold">
 										<span>Open Access</span>
 									</div>
@@ -484,26 +552,13 @@
 						<div class="col-md-6 col-lg-4 col-xl-3 mb-4 pb-3 mb-xl-0 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="600">
 							<div class="thumb-info thumb-info-hide-wrapper-bg custom-thumb-info-style-1">
 								<div class="thumb-info-wrapper">
-									<a href="http://arjuna.ristekdikti.go.id/"><img src="img/demos/education/courses/course-5.jpg" class="img-fluid" alt=""></a>
+									<a href="http://arjuna.ristekdikti.go.id/"><img src="/openlibrary/img/arjuna.jpg" class="img-fluid" alt=""></a>
 									<div class="thumb-info-price bg-color-secondary font-weight-semibold">
 										<span>Open Access</span>
 									</div>
 								</div>
 								<div class="thumb-info-caption">
 									<h3 class="font-weight-semibold text-transform-none"><a href="http://arjuna.ristekdikti.go.id/" class="custom-link-color-dark">ARJUNA</a></h3>
-								</div>
-							</div>
-						</div>
-						<div class="col-md-6 col-lg-4 col-xl-3 mb-4 pb-3 mb-xl-0 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="600">
-							<div class="thumb-info thumb-info-hide-wrapper-bg custom-thumb-info-style-1">
-								<div class="thumb-info-wrapper">
-									<a href="http://www.ithenticate.com/"><img src="img/demos/education/courses/course-5.jpg" class="img-fluid" alt=""></a>
-									<div class="thumb-info-price bg-color-secondary font-weight-semibold">
-										<span>Open Access</span>
-									</div>
-								</div>
-								<div class="thumb-info-caption">
-									<h3 class="font-weight-semibold text-transform-none"><a href="http://www.ithenticate.com/" class="custom-link-color-dark">ITHENTICATED</a></h3>
 								</div>
 							</div>
 						</div>
@@ -516,7 +571,7 @@
 				</div>
 			</section>
 			<!-- SIM-LITABMAS -->
-			<section class="section parallax section-parallax my-0 border-0" data-plugin-parallax data-plugin-options="{'speed': 1.5, 'parallaxHeight': '125%'}" data-image-src="img/demos/education/parallax/parallax-1.jpg">
+			<section class="section parallax section-parallax my-0 border-0" data-plugin-parallax data-plugin-options="{'speed': 1.5, 'parallaxHeight': '125%'}" data-image-src="/openlibrary/img/rbtc1.jpg">
 				<div class="container">
 					<div class="row">
 						<div class="col-md-11 col-lg-11 col-xl-11 appear-animation" data-appear-animation="fadeInLeftShorter">
@@ -545,12 +600,12 @@
 									<div class="col-lg-10">
 										<div class="testimonial testimonial-style-2 testimonial-with-quotes custom-testimonial-style-1">
 											<blockquote>
-												<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse in arcu facilisis quam aliquam ultrices quis in purus. Donec volutpat et justo et viverra. Suspendisse id justo a ipsum viverra ultrices quis et quam.</p>
+												<p>Dengan adanya Informatics Open Library ini pencarian literatur ilmiah semakin mudah dan terintegrasi</p>
 											</blockquote>
 											<div class="testimonial-author">
 												<!-- <img src="img/demos/education/authors/author-1.jpg" class="img-fluid rounded-circle" alt /> -->
 												<p>
-													<strong class="text-uppercase text-color-dark">ALICE DOE</strong>
+													<strong class="text-uppercase text-color-dark">Azzam Jihad Ulhaq</strong>
 												</p>
 												<div class="rate">
 													<i class="fas fa-star"></i>
@@ -563,14 +618,14 @@
 										</div>
 									</div>
 								</div>
-								<div class="row justify-content-center">
+								<!-- <div class="row justify-content-center">
 									<div class="col-lg-10">
 										<div class="testimonial testimonial-style-2 testimonial-with-quotes custom-testimonial-style-1">
 											<blockquote>
 												<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse in arcu facilisis quam aliquam ultrices quis in purus. Donec volutpat et justo et viverra. Suspendisse id justo a ipsum viverra ultrices quis et quam.</p>
 											</blockquote>
 											<div class="testimonial-author">
-												<!-- <img src="img/demos/education/authors/author-2.jpg" class="img-fluid rounded-circle" alt /> -->
+												<img src="img/demos/education/authors/author-2.jpg" class="img-fluid rounded-circle" alt />
 												<p>
 													<strong class="text-uppercase text-color-dark">JOSIE DOE</strong>
 												</p>
@@ -583,7 +638,7 @@
 												</div>
 											</div>
 										</div>
-									</div>
+									</div> -->
 								</div>
 							</div>
 						</div>
