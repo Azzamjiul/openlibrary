@@ -11,6 +11,11 @@
 |
 */
 
+use Spatie\Analytics\Period;
+
 Route::get('/', function () {
-    return view('home');
+    //retrieve visitors and pageviews since the 6 months ago
+    $analyticsData = Analytics::fetchVisitorsAndPageViews(Period::days(7));
+    // return $analyticsData;
+    return view('home',compact('analyticsData'));
 });

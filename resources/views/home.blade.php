@@ -7,10 +7,10 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-	<title>Home | IOL - Informatics Open Library</title>
+	<title>IFOLIB - Informatics Open Library</title>
 
 	<meta name="keywords" content="Open Library" />
-	<meta name="description" content="IOL - Informatics Open Library">
+	<meta name="description" content="IFOLIB - Informatics Open Library">
 	<meta name="author" content="ajiul.com">
 
 	<!-- Favicon -->
@@ -216,16 +216,16 @@
 							<!-- <p class="text-color-dark pb-3 mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1700">Dalam rangka memaksimalkan pelayanan kami menyediakan beberapa layanan sebagai berikut.</p> -->
 							<!-- <a href="#" class="btn btn-primary text-1 btn-outline custom-btn-style-1 font-weight-semibold appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1900" data-plugin-options="{'accY': 100}">LO ITS</a> -->
 							<p>
-							<a href="https://docs.google.com/forms/d/e/1FAIpQLSc9XwfvTz-J3Y0QTrWUqumyiUO-PR9BLNw2mWGzkRXob7_A7w/viewform" class="btn btn-primary text-1 btn-outline custom-btn-style-1 font-weight-semibold appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1900" data-plugin-options="{'accY': 100}">LSS (LITERATURE SERACHING SERVICE)</a>
+								<a href="https://docs.google.com/forms/d/e/1FAIpQLSfYsVvZ41LcRuQJ961nT202D5bAqFjgssQYjALeGNVmgVmmXg/viewform" class="btn btn-primary text-1 btn-outline custom-btn-style-1 font-weight-semibold appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1900" data-plugin-options="{'accY': 100}">LSS (LITERATURE SERACHING SERVICE)</a>
 							</p>
 							<p>
-							<a href="/openlibrary/pdf/Akses_VPN_untuk_Dosen_Tendik_dan_Mahasiswa.pdf" class="btn btn-primary text-1 btn-outline custom-btn-style-1 font-weight-semibold appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1900" data-plugin-options="{'accY': 100}">PANDUAN VPN</a>
+								<a href="/openlibrary/pdf/Akses_VPN_untuk_Dosen_Tendik_dan_Mahasiswa.pdf" class="btn btn-primary text-1 btn-outline custom-btn-style-1 font-weight-semibold appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1900" data-plugin-options="{'accY': 100}">PANDUAN VPN</a>
 							</p>
 							<p>
-							<a href="https://docs.google.com/forms/d/e/1FAIpQLScaldDlqxKNi0T3PZLEtBQ_iNnL8L3m1zr_GsRoN7gHBzZdpw/viewform" class="btn btn-primary text-1 btn-outline custom-btn-style-1 font-weight-semibold appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1900" data-plugin-options="{'accY': 100}">USULAN BUKU BARU</a>
+								<a href="https://docs.google.com/forms/d/e/1FAIpQLSe_9vtv2LhOAKdiaOLrjWMaF5gLo94efgPMdlhgLAu4Ch8rzg/viewform" class="btn btn-primary text-1 btn-outline custom-btn-style-1 font-weight-semibold appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1900" data-plugin-options="{'accY': 100}">USULAN BUKU BARU</a>
 							</p>
 							<p>
-							<a href="https://docs.google.com/forms/d/e/1FAIpQLSfQy1HH8IbnJ52Wuk_WkE6kteBRNkhehFOtkWwzfyUHPJH1jw/viewform" class="btn btn-primary text-1 btn-outline custom-btn-style-1 font-weight-semibold appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1900" data-plugin-options="{'accY': 100}">KEPUASAN PENGGUNA</a>
+								<a href="https://docs.google.com/forms/d/e/1FAIpQLSeMFzdXwfwIyJ1eOXPSxlCrZ6ycDeJIjNWckeGqfwDxwJc1gQ/viewform?fbzx=5061074073968156317" class="btn btn-primary text-1 btn-outline custom-btn-style-1 font-weight-semibold appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1900" data-plugin-options="{'accY': 100}">KEPUASAN PENGGUNA</a>
 							</p>
 						</div>
 					</div>
@@ -262,7 +262,7 @@
 						<div class="col-md-6 col-lg-4 col-xl-3 mb-4 pb-3 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="200">
 							<div class="thumb-info thumb-info-hide-wrapper-bg custom-thumb-info-style-1">
 								<div class="thumb-info-wrapper">
-									<a href="http://rbtc.if.its.ac.id/v8/index.php?select_lang=my_MY"><img src="/openlibrary/img/its.png" class="img-fluid" alt=""></a>
+									<a href="http://rbtc.if.its.ac.id/v8/index.php?select_lang=my_MY"><img src="/openlibrary/img/katalogonline.png" class="img-fluid" alt=""></a>
 									<div class="thumb-info-price bg-color-secondary font-weight-semibold">
 										<span>Lokal Konten</span>
 									</div>
@@ -281,7 +281,7 @@
 						<div class="col-md-6 col-lg-4 col-xl-3 mb-4 pb-3 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="200">
 							<div class="thumb-info thumb-info-hide-wrapper-bg custom-thumb-info-style-1">
 								<div class="thumb-info-wrapper">
-									<a href="http://yudisium.if.its.ac.id/"><img src="/openlibrary/img/its.png" class="img-fluid" alt=""></a>
+									<a href="http://yudisium.if.its.ac.id/"><img src="/openlibrary/img/repotc.png" class="img-fluid" alt=""></a>
 									<div class="thumb-info-price bg-color-secondary font-weight-semibold">
 										<span>Lokal Konten</span>
 									</div>
@@ -300,7 +300,7 @@
 						<div class="col-md-6 col-lg-4 col-xl-3 mb-4 pb-3 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="400">
 							<div class="thumb-info thumb-info-hide-wrapper-bg custom-thumb-info-style-1">
 								<div class="thumb-info-wrapper">
-									<a href="http://juti.if.its.ac.id/index.php/juti"><img src="/openlibrary/img/its.png" class="img-fluid" alt=""></a>
+									<a href="http://juti.if.its.ac.id/index.php/juti"><img src="/openlibrary/img/juti.png" class="img-fluid" alt=""></a>
 									<div class="thumb-info-price bg-color-secondary font-weight-semibold">
 										<span>Lokal Konten</span>
 									</div>
@@ -391,7 +391,8 @@
 										</ul>
 									</div>
 								</div>
-							</div> -->
+							</div> 
+						-->
 					</div>
 					<div class="row">
 						<div class="col">
@@ -399,7 +400,7 @@
 						</div>
 					</div>
 					<div class="row justify-content-center mb-5">
-					<div class="col-md-6 col-lg-4 col-xl-3 pb-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1000">
+						<div class="col-md-6 col-lg-4 col-xl-3 pb-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1000">
 							<div class="thumb-info thumb-info-hide-wrapper-bg custom-thumb-info-style-1">
 								<div class="thumb-info-wrapper">
 									<a href="https://libraries.acm.org/"><img src="/openlibrary/img/acm_logo_tablet.jpg" class="img-fluid" alt=""></a>
@@ -454,7 +455,7 @@
 						<div class="col-md-6 col-lg-4 col-xl-3 mb-4 pb-3 mb-xl-0 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="600">
 							<div class="thumb-info thumb-info-hide-wrapper-bg custom-thumb-info-style-1">
 								<div class="thumb-info-wrapper">
-									<a href="http://repository.its.ac.id/"><img src="/openlibrary/img/its.png" class="img-fluid" alt=""></a>
+									<a href="http://repository.its.ac.id/"><img src="/openlibrary/img/repoits.png" class="img-fluid" alt=""></a>
 									<div class="thumb-info-price bg-color-secondary font-weight-semibold">
 										<span>Electronic Resources</span>
 									</div>
@@ -639,14 +640,14 @@
 											</div>
 										</div>
 									</div> -->
-								</div>
 							</div>
 						</div>
 					</div>
 				</div>
-			</section>
-			<!-- latest News -->
-			<!-- <section class="section bg-color-tertiary border-0 my-0">
+		</div>
+		</section>
+		<!-- latest News -->
+		<!-- <section class="section bg-color-tertiary border-0 my-0">
 					<div class="container">
 						<div class="row">
 							<div class="col text-center">
@@ -694,7 +695,7 @@
 					</div>
                 </section> -->
 
-			<!-- <section class="section parallax section-parallax my-0 border-0" data-plugin-parallax data-plugin-options="{'speed': 1.5, 'parallaxHeight': '125%'}" data-image-src="img/demos/education/parallax/parallax-2.jpg">
+		<!-- <section class="section parallax section-parallax my-0 border-0" data-plugin-parallax data-plugin-options="{'speed': 1.5, 'parallaxHeight': '125%'}" data-image-src="img/demos/education/parallax/parallax-2.jpg">
 					<div class="container mt-5">
 						<div class="row">
 							<div class="col-md-12 col-lg-6">
@@ -784,28 +785,35 @@
 				</section> -->
 
 
-			<footer id="footer" class="bg-color-quaternary border-top-0 mt-0">
-				<div class="container">
-					<div class="row justify-content-between pt-5 pb-4">
-						<div class="col-md-6 col-lg-6 mb-6 mb-lg-6">
-							<h2 class="font-weight-semibold text-color-light text-6 mb-3">Contact Details</h2>
-							<p>Jl. Teknik Kimia - Gedung Informatika
-								Kampus Institut Teknologi Sepuluh Nopember Surabaya
-								Jalan Raya ITS, Sukolilo, Surabaya 60111, Indonesia
-							</p>
-							<span class="d-block text-5 mb-2">
-								Call: <a href="tel:++62315939214" class="text-3">031 5939214 PABX 107</a>
-							</span>
-							<span class="d-block text-5 mb-4">
-								Email: <a href="mailto:eva.mursidah@gmail.com" class="text-3">eva.mursidah@gmail.com</a>
-							</span>
-							<ul class="social-icons social-icons-transparent">
-								<li class="social-icons-facebook"><a href="http://www.facebook.com/" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a></li>
-								<li class="social-icons-twitter"><a href="http://www.twitter.com/" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a></li>
-								<li class="social-icons-linkedin"><a href="http://www.linkedin.com/" target="_blank" title="Linkedin"><i class="fab fa-linkedin-in"></i></a></li>
-							</ul>
-						</div>
-						<!-- <div class="col-md-7 col-lg-4 mb-4 mb-lg-0">
+		<footer id="footer" class="bg-color-quaternary border-top-0 mt-0">
+			<div class="container">
+				<div class="row justify-content-between pt-5 pb-4">
+					<div class="col-md-6 col-lg-6 mb-6 mb-lg-6">
+						<h2 class="font-weight-semibold text-color-light text-6 mb-3">Contact Details</h2>
+						<p>Jl. Teknik Kimia - Gedung Informatika
+							Kampus Institut Teknologi Sepuluh Nopember Surabaya
+							Jalan Raya ITS, Sukolilo, Surabaya 60111, Indonesia
+						</p>
+						<span class="d-block text-5 mb-2">
+							Call: <a href="tel:++62315939214" class="text-3">031 5939214 PABX 107</a>
+						</span>
+						<span class="d-block text-5 mb-4">
+							Email: <a href="mailto:eva.mursidah@gmail.com" class="text-3">eva.mursidah@gmail.com</a>
+						</span>
+						<ul class="social-icons social-icons-transparent">
+							<li class="social-icons-facebook"><a href="http://www.facebook.com/" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a></li>
+							<li class="social-icons-twitter"><a href="http://www.twitter.com/" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a></li>
+							<li class="social-icons-linkedin"><a href="http://www.linkedin.com/" target="_blank" title="Linkedin"><i class="fab fa-linkedin-in"></i></a></li>
+						</ul>
+					</div>
+					@if(count($analyticsData))
+					<p>analyticsData ==> {{$analyticsData}}</p>
+					@endif
+					<p> <a href='https://embedmap.org/'>embed a google map</a>
+						<script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=d946c7e72fa6c28642a61aa2a94e53f8d9b8f236'></script>
+						<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/550199/t/0"></script>
+					</p>
+					<!-- <div class="col-md-7 col-lg-4 mb-4 mb-lg-0">
 							<div class="row">
 								<div class="col">
 									<h2 class="font-weight-semibold text-color-light text-6 mb-3">Courses</h2>
@@ -859,64 +867,64 @@
 								</div>
 							</div>
 						</div> -->
-					</div>
 				</div>
-				<div class="footer-copyright bg-color-quaternary border-top-0">
-					<div class="container">
-						<div class="row">
-							<div class="col">
-								<p class="text-center">© Copyright 2019. All Rights Reserved.</p>
-							</div>
+			</div>
+			<div class="footer-copyright bg-color-quaternary border-top-0">
+				<div class="container">
+					<div class="row">
+						<div class="col">
+							<p class="text-center">© Copyright 2019. All Rights Reserved.</p>
 						</div>
 					</div>
 				</div>
-			</footer>
-		</div>
+			</div>
+		</footer>
+	</div>
 
-		<!-- Vendor -->
-		<script src="vendor/jquery/jquery.min.js"></script>
-		<script src="vendor/jquery.appear/jquery.appear.min.js"></script>
-		<script src="vendor/jquery.easing/jquery.easing.min.js"></script>
-		<script src="vendor/jquery.cookie/jquery.cookie.min.js"></script>
-		<script src="vendor/popper/umd/popper.min.js"></script>
-		<script src="vendor/bootstrap/js/bootstrap.min.js"></script>
-		<script src="vendor/common/common.min.js"></script>
-		<script src="vendor/jquery.validation/jquery.validate.min.js"></script>
-		<script src="vendor/jquery.easy-pie-chart/jquery.easypiechart.min.js"></script>
-		<script src="vendor/jquery.gmap/jquery.gmap.min.js"></script>
-		<script src="vendor/jquery.lazyload/jquery.lazyload.min.js"></script>
-		<script src="vendor/isotope/jquery.isotope.min.js"></script>
-		<script src="vendor/owl.carousel/owl.carousel.min.js"></script>
-		<script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
-		<script src="vendor/vide/jquery.vide.min.js"></script>
-		<script src="vendor/vivus/vivus.min.js"></script>
-		<script src="vendor/jquery.countdown/jquery.countdown.min.js"></script>
+	<!-- Vendor -->
+	<script src="vendor/jquery/jquery.min.js"></script>
+	<script src="vendor/jquery.appear/jquery.appear.min.js"></script>
+	<script src="vendor/jquery.easing/jquery.easing.min.js"></script>
+	<script src="vendor/jquery.cookie/jquery.cookie.min.js"></script>
+	<script src="vendor/popper/umd/popper.min.js"></script>
+	<script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+	<script src="vendor/common/common.min.js"></script>
+	<script src="vendor/jquery.validation/jquery.validate.min.js"></script>
+	<script src="vendor/jquery.easy-pie-chart/jquery.easypiechart.min.js"></script>
+	<script src="vendor/jquery.gmap/jquery.gmap.min.js"></script>
+	<script src="vendor/jquery.lazyload/jquery.lazyload.min.js"></script>
+	<script src="vendor/isotope/jquery.isotope.min.js"></script>
+	<script src="vendor/owl.carousel/owl.carousel.min.js"></script>
+	<script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+	<script src="vendor/vide/jquery.vide.min.js"></script>
+	<script src="vendor/vivus/vivus.min.js"></script>
+	<script src="vendor/jquery.countdown/jquery.countdown.min.js"></script>
 
-		<!-- Theme Base, Components and Settings -->
-		<script src="js/theme.js"></script>
+	<!-- Theme Base, Components and Settings -->
+	<script src="js/theme.js"></script>
 
-		<!-- Current Page Vendor and Views -->
-		<script src="vendor/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
-		<script src="vendor/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
-
-
-
-		<!-- Current Page Vendor and Views -->
-		<script src="js/views/view.contact.js"></script>
-
-		<!-- Demo -->
-		<script src="js/demos/demo-education.js"></script>
-
-		<!-- Theme Custom -->
-		<script src="js/custom.js"></script>
-
-		<!-- Theme Initialization Files -->
-		<script src="js/theme.init.js"></script>
+	<!-- Current Page Vendor and Views -->
+	<script src="vendor/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
+	<script src="vendor/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
 
 
 
+	<!-- Current Page Vendor and Views -->
+	<script src="js/views/view.contact.js"></script>
 
-		<!-- Google Analytics: Change UA-XXXXX-X to be your site's ID. Go to http://www.google.com/analytics/ for more information.
+	<!-- Demo -->
+	<script src="js/demos/demo-education.js"></script>
+
+	<!-- Theme Custom -->
+	<script src="js/custom.js"></script>
+
+	<!-- Theme Initialization Files -->
+	<script src="js/theme.init.js"></script>
+
+
+
+
+	<!-- Google Analytics: Change UA-XXXXX-X to be your site's ID. Go to http://www.google.com/analytics/ for more information.
 		<script>
 			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
