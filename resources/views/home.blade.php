@@ -191,7 +191,7 @@
 						<li data-transition="fade">
 							<img src="/openlibrary/img/slide1.jpeg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-kenburns="on" data-duration="20000" data-ease="Linear.easeNone" data-scalestart="110" data-scaleend="100" data-offsetstart="250 100" class="rev-slidebg">
 
-							<h1 class="tp-caption font-weight-bold text-color-light text-center" data-x="center" data-y="center" data-voffset="['10','10','10','10']" data-width="['770','770','770','350']" data-start="1000" data-fontsize="['45','45','45','35']" data-lineheight="['56','56','50','40']" data-transform_in="y:[100%];opacity:0;s:500;" data-transform_out="opacity:0;s:500;" style="white-space: normal;">Complete Solution For Your Education Needs</h1>
+							<!-- <h1 class="tp-caption font-weight-bold text-color-light text-center" data-x="center" data-y="center" data-voffset="['10','10','10','10']" data-width="['770','770','770','350']" data-start="1000" data-fontsize="['45','45','45','35']" data-lineheight="['56','56','50','40']" data-transform_in="y:[100%];opacity:0;s:500;" data-transform_out="opacity:0;s:500;" style="white-space: normal;">Complete Solution For Your Education Needs</h1> -->
 
 							<!-- <a class="tp-caption btn btn-primary text-1 font-weight-semibold custom-btn-style-1" href="#" data-x="center" data-y="center" data-voffset="['130','130','130','130']" data-start="1300" data-fontsize="['14','14','14','20']" data-paddingtop="['11','11','11','16']" data-paddingbottom="['11','11','11','16']" data-paddingleft="['32','32','32','42']" data-paddingright="['32','32','32','42']" data-transform_in="y:[100%];opacity:0;s:500;" data-transform_out="opacity:0;s:500;">ABOUT US</a> -->
 
@@ -207,7 +207,7 @@
 						<li data-transition="fade">
 							<img src="/openlibrary/img/slide3.jpeg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-kenburns="on" data-duration="20000" data-ease="Linear.easeNone" data-scalestart="110" data-scaleend="100" data-offsetstart="250 100" class="rev-slidebg">
 
-							<h1 class="tp-caption font-weight-bold text-color-light text-center" data-x="center" data-y="center" data-voffset="['10','10','10','10']" data-width="['770','770','770','350']" data-start="1000" data-fontsize="['45','45','45','35']" data-lineheight="['56','56','50','40']" data-transform_in="y:[100%];opacity:0;s:500;" data-transform_out="opacity:0;s:500;" style="white-space: normal;">Complete Solution For Your Education Needs</h1>
+							<!-- <h1 class="tp-caption font-weight-bold text-color-light text-center" data-x="center" data-y="center" data-voffset="['10','10','10','10']" data-width="['770','770','770','350']" data-start="1000" data-fontsize="['45','45','45','35']" data-lineheight="['56','56','50','40']" data-transform_in="y:[100%];opacity:0;s:500;" data-transform_out="opacity:0;s:500;" style="white-space: normal;">Complete Solution For Your Education Needs</h1> -->
 
 							<!-- <a class="tp-caption btn btn-primary text-1 font-weight-semibold custom-btn-style-1" href="#" data-x="center" data-y="center" data-voffset="['130','130','130','130']" data-start="1300" data-fontsize="['14','14','14','20']" data-paddingtop="['11','11','11','16']" data-paddingbottom="['11','11','11','16']" data-paddingleft="['32','32','32','42']" data-paddingright="['32','32','32','42']" data-transform_in="y:[100%];opacity:0;s:500;" data-transform_out="opacity:0;s:500;">ABOUT US</a> -->
 
@@ -223,7 +223,7 @@
 						<li data-transition="fade">
 							<img src="/openlibrary/img/slide5.jpeg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-kenburns="on" data-duration="20000" data-ease="Linear.easeNone" data-scalestart="110" data-scaleend="100" data-offsetstart="250 100" class="rev-slidebg">
 
-							<h1 class="tp-caption font-weight-bold text-color-light text-center" data-x="center" data-y="center" data-voffset="['10','10','10','10']" data-width="['770','770','770','350']" data-start="1000" data-fontsize="['45','45','45','35']" data-lineheight="['56','56','50','40']" data-transform_in="y:[100%];opacity:0;s:500;" data-transform_out="opacity:0;s:500;" style="white-space: normal;">Complete Solution For Your Education Needs</h1>
+							<!-- <h1 class="tp-caption font-weight-bold text-color-light text-center" data-x="center" data-y="center" data-voffset="['10','10','10','10']" data-width="['770','770','770','350']" data-start="1000" data-fontsize="['45','45','45','35']" data-lineheight="['56','56','50','40']" data-transform_in="y:[100%];opacity:0;s:500;" data-transform_out="opacity:0;s:500;" style="white-space: normal;">Complete Solution For Your Education Needs</h1> -->
 
 							<!-- <a class="tp-caption btn btn-primary text-1 font-weight-semibold custom-btn-style-1" href="#" data-x="center" data-y="center" data-voffset="['130','130','130','130']" data-start="1300" data-fontsize="['14','14','14','20']" data-paddingtop="['11','11','11','16']" data-paddingbottom="['11','11','11','16']" data-paddingleft="['32','32','32','42']" data-paddingright="['32','32','32','42']" data-transform_in="y:[100%];opacity:0;s:500;" data-transform_out="opacity:0;s:500;">ABOUT US</a> -->
 
@@ -239,7 +239,7 @@
 						<li data-transition="fade">
 							<img src="/openlibrary/img/slide7.jpeg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-kenburns="on" data-duration="20000" data-ease="Linear.easeNone" data-scalestart="110" data-scaleend="100" data-offsetstart="250 100" class="rev-slidebg">
 
-							<h1 class="tp-caption font-weight-bold text-color-light text-center" data-x="center" data-y="center" data-voffset="['10','10','10','10']" data-width="['770','770','770','350']" data-start="1000" data-fontsize="['45','45','45','35']" data-lineheight="['56','56','50','40']" data-transform_in="y:[100%];opacity:0;s:500;" data-transform_out="opacity:0;s:500;" style="white-space: normal;">Complete Solution For Your Education Needs</h1>
+							<!-- <h1 class="tp-caption font-weight-bold text-color-light text-center" data-x="center" data-y="center" data-voffset="['10','10','10','10']" data-width="['770','770','770','350']" data-start="1000" data-fontsize="['45','45','45','35']" data-lineheight="['56','56','50','40']" data-transform_in="y:[100%];opacity:0;s:500;" data-transform_out="opacity:0;s:500;" style="white-space: normal;">Complete Solution For Your Education Needs</h1> -->
 
 							<!-- <a class="tp-caption btn btn-primary text-1 font-weight-semibold custom-btn-style-1" href="#" data-x="center" data-y="center" data-voffset="['130','130','130','130']" data-start="1300" data-fontsize="['14','14','14','20']" data-paddingtop="['11','11','11','16']" data-paddingbottom="['11','11','11','16']" data-paddingleft="['32','32','32','42']" data-paddingright="['32','32','32','42']" data-transform_in="y:[100%];opacity:0;s:500;" data-transform_out="opacity:0;s:500;">ABOUT US</a> -->
 
@@ -255,7 +255,7 @@
 						<li data-transition="fade">
 							<img src="/openlibrary/img/slide9.jpeg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-kenburns="on" data-duration="20000" data-ease="Linear.easeNone" data-scalestart="110" data-scaleend="100" data-offsetstart="250 100" class="rev-slidebg">
 
-							<h1 class="tp-caption font-weight-bold text-color-light text-center" data-x="center" data-y="center" data-voffset="['10','10','10','10']" data-width="['770','770','770','350']" data-start="1000" data-fontsize="['45','45','45','35']" data-lineheight="['56','56','50','40']" data-transform_in="y:[100%];opacity:0;s:500;" data-transform_out="opacity:0;s:500;" style="white-space: normal;">Complete Solution For Your Education Needs</h1>
+							<!-- <h1 class="tp-caption font-weight-bold text-color-light text-center" data-x="center" data-y="center" data-voffset="['10','10','10','10']" data-width="['770','770','770','350']" data-start="1000" data-fontsize="['45','45','45','35']" data-lineheight="['56','56','50','40']" data-transform_in="y:[100%];opacity:0;s:500;" data-transform_out="opacity:0;s:500;" style="white-space: normal;">Complete Solution For Your Education Needs</h1> -->
 
 							<!-- <a class="tp-caption btn btn-primary text-1 font-weight-semibold custom-btn-style-1" href="#" data-x="center" data-y="center" data-voffset="['130','130','130','130']" data-start="1300" data-fontsize="['14','14','14','20']" data-paddingtop="['11','11','11','16']" data-paddingbottom="['11','11','11','16']" data-paddingleft="['32','32','32','42']" data-paddingright="['32','32','32','42']" data-transform_in="y:[100%];opacity:0;s:500;" data-transform_out="opacity:0;s:500;">ABOUT US</a> -->
 
@@ -993,17 +993,16 @@
 
 
 
-	<!-- Google Analytics: Change UA-XXXXX-X to be your site's ID. Go to http://www.google.com/analytics/ for more information.
+		<!-- Google Analytics: Change UA-XXXXX-X to be your site's ID. Go to http://www.google.com/analytics/ for more information. -->
 		<script>
 			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 		
-			ga('create', 'UA-12345678-1', 'auto');
+			ga('create', 'UA-143785992-1', 'auto');
 			ga('send', 'pageview');
 		</script>
-		 -->
 
 
 
