@@ -343,7 +343,7 @@
 									</div> -->
 								</div>
 								<div class="thumb-info-caption">
-									<h3 class="font-weight-semibold text-transform-none"><a href="http://yudisium.if.its.ac.id/" class="custom-link-color-dark">REPOSITORI INFORMATIKA</a></h3>
+									<h3 class="font-weight-semibold text-transform-none"><a href="http://yudisium.if.its.ac.id/" class="custom-link-color-dark">BEBAS PUSTAKA DAN UNGGAH MANDIRI</a></h3>
 								</div>
 								<!-- <div class="thumb-info-footer">
 										<ul class="nav text-1">
@@ -363,6 +363,25 @@
 								</div>
 								<div class="thumb-info-caption">
 									<h3 class="font-weight-semibold text-transform-none"><a href="http://juti.if.its.ac.id/index.php/juti" class="custom-link-color-dark">JUTI</a></h3>
+								</div>
+								<!-- <div class="thumb-info-footer">
+										<ul class="nav text-1">
+											<li><a href="demo-education-courses-detail.html"><i class="far fa-user text-color-primary"></i> John Doe</a></li>
+											<li class="ml-3"><a href="demo-education-courses-detail.html"><i class="far fa-clock text-color-primary"></i> 1 Hour</a></li>
+										</ul>
+									</div> -->
+							</div>
+						</div>
+						<div class="col-md-6 col-lg-4 col-xl-3 mb-4 pb-3 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="400">
+							<div class="thumb-info thumb-info-hide-wrapper-bg custom-thumb-info-style-1">
+								<div class="thumb-info-wrapper">
+									<a href="#"><img src="/openlibrary/img/its.png" class="img-fluid" alt=""></a>
+									<!-- <div class="thumb-info-price bg-color-secondary font-weight-semibold">
+										<span>Lokal Konten</span>
+									</div> -->
+								</div>
+								<div class="thumb-info-caption">
+									<h3 class="font-weight-semibold text-transform-none"><a href="#" class="custom-link-color-dark">MAHAKARYA INFORMATIKA ITS</a></h3>
 								</div>
 								<!-- <div class="thumb-info-footer">
 										<ul class="nav text-1">
@@ -557,6 +576,19 @@
 								</div>
 								<div class="thumb-info-caption">
 									<h3 class="font-weight-semibold text-transform-none"><a href="http://www.ithenticate.com/" class="custom-link-color-dark">ITHENTICATED</a></h3>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 col-lg-4 col-xl-3 mb-4 pb-3 mb-xl-0 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="600">
+							<div class="thumb-info thumb-info-hide-wrapper-bg custom-thumb-info-style-1">
+								<div class="thumb-info-wrapper">
+									<a href="http://eresource-mi.com"><img src="/openlibrary/img/eresource.png" class="img-fluid" alt=""></a>
+									<!-- <div class="thumb-info-price bg-color-secondary font-weight-semibold">
+										<span>Electronic Resources</span>
+									</div> -->
+								</div>
+								<div class="thumb-info-caption">
+									<h3 class="font-weight-semibold text-transform-none"><a href="http://eresource-mi.com" class="custom-link-color-dark">E-RESOURCE CLASS ONLINE</a></h3>
 								</div>
 							</div>
 						</div>
