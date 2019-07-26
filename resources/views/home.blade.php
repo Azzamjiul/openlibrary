@@ -7,10 +7,10 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-	<title>IFOLIB - Informatics Open Library</title>
+	<title>IFOLIB - Informatic Open Library</title>
 
 	<meta name="keywords" content="Open Library" />
-	<meta name="description" content="IFOLIB - Informatics Open Library">
+	<meta name="description" content="IFOLIB - Informatic Open Library">
 	<meta name="author" content="ajiul.com">
 
 	<!-- Favicon -->
@@ -109,7 +109,7 @@
 										<strong>
 											<a href="{{url('/')}}">
 												<!-- <img alt="Porto" width="100" height="48" src="img/demos/education/logo.png"> -->
-												Informatics Open Library
+												Informatic Open Library
 											</a>
 										</strong>
 									</h1>
@@ -280,12 +280,49 @@
 							<!-- <p class="text-color-dark pb-3 mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1700">Dalam rangka memaksimalkan pelayanan kami menyediakan beberapa layanan sebagai berikut.</p> -->
 							<!-- <a href="#" class="btn btn-primary text-1 btn-outline custom-btn-style-1 font-weight-semibold appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1900" data-plugin-options="{'accY': 100}">LO ITS</a> -->
 							<a href="https://docs.google.com/forms/d/e/1FAIpQLSfYsVvZ41LcRuQJ961nT202D5bAqFjgssQYjALeGNVmgVmmXg/viewform" class="btn btn-primary text-1 btn-outline custom-btn-style-1 font-weight-semibold appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1900" data-plugin-options="{'accY': 100}" style="margin:10px 10px">LSS (LITERATURE SERACHING SERVICE)</a>
-							<a href="http://eresource-mi.com" class="btn btn-primary text-1 btn-outline custom-btn-style-1 font-weight-semibold appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1900" data-plugin-options="{'accY': 100}" style="margin:10px 10px">LITERASI INFORMASI</a>
-							<a href="http://www.ithenticate.com/" class="btn btn-primary text-1 btn-outline custom-btn-style-1 font-weight-semibold appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1900" data-plugin-options="{'accY': 100}" style="margin:10px 10px">LAYANAN PLAGIARISM</a>
-							<a href="http://yudisium.if.its.ac.id/" class="btn btn-primary text-1 btn-outline custom-btn-style-1 font-weight-semibold appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1900" data-plugin-options="{'accY': 100}" style="margin:10px 10px">BEBAS PUSTAKAN DAN UNGGAH MANDIRI</a>
+							<a href="http://eresource-mi.com" class="btn btn-primary text-1 btn-outline custom-btn-style-1 font-weight-semibold appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1900" data-plugin-options="{'accY': 100}" style="margin:10px 10px">LAYANAN LITERASI INFORMASI</a>
+							<a href="https://www.grammarly.com/" class="btn btn-primary text-1 btn-outline custom-btn-style-1 font-weight-semibold appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1900" data-plugin-options="{'accY': 100}" style="margin:10px 10px">LAYANAN CHECK PLAGIARISM</a>
+							<a href="http://yudisium.if.its.ac.id/" class="btn btn-primary text-1 btn-outline custom-btn-style-1 font-weight-semibold appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1900" data-plugin-options="{'accY': 100}" style="margin:10px 10px">BEBAS PUSTAKA DAN UNGGAH MANDIRI</a>
 							<a href="/openlibrary/pdf/Akses_VPN_untuk_Dosen_Tendik_dan_Mahasiswa.pdf" class="btn btn-primary text-1 btn-outline custom-btn-style-1 font-weight-semibold appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1900" data-plugin-options="{'accY': 100}" style="margin:10px 10px">PANDUAN VPN</a>
 							<a href="https://docs.google.com/forms/d/e/1FAIpQLSe_9vtv2LhOAKdiaOLrjWMaF5gLo94efgPMdlhgLAu4Ch8rzg/viewform" class="btn btn-primary text-1 btn-outline custom-btn-style-1 font-weight-semibold appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1900" data-plugin-options="{'accY': 100}" style="margin:10px 10px">USULAN BUKU BARU</a>
-							<a href="https://docs.google.com/forms/d/e/1FAIpQLSeMFzdXwfwIyJ1eOXPSxlCrZ6ycDeJIjNWckeGqfwDxwJc1gQ/viewform?fbzx=5061074073968156317" class="btn btn-primary text-1 btn-outline custom-btn-style-1 font-weight-semibold appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1900" data-plugin-options="{'accY': 100}" style="margin:10px 10px">SURVEY KEBUTUHAN INFROMASI</a>
+							<a href="https://docs.google.com/forms/d/1GbnZb3XPj4F9CzZKhHUEkgpt5DRT_ZSX31OCNkI4c-8/edit" class="btn btn-primary text-1 btn-outline custom-btn-style-1 font-weight-semibold appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1900" data-plugin-options="{'accY': 100}" style="margin:10px 10px">SURVEY KEBUTUHAN INFROMASI</a>
+						</div>
+					</div>
+				</div>
+			</section>
+			<section class="section bg-color-light border-0 my-0">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-12 text-center">
+							<h2 class="font-weight-bold mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1500">Recent News</h2>
+						</div>
+						<div class="col-md-6">
+							<div class="embed-responsive embed-responsive-16by9">
+								<iframe max-width="853" max-height="480" src="https://www.youtube.com/embed/EHlVz1XSfZU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+							</div>
+						</div>
+						<div class="col-md-6">
+							<h4 class=" text-center">PENGUMUMAN BEBAS RBTC</h4>
+							<p>Bagi Calon Wisudawan untuk Bebas RBTC harap menunjukkan :</p>
+							<ol>
+								<li value="1">Kartu Tanda Mahasiswa</li>
+								<li>Tugas Akhir ( Buku Hard Copy )</li>
+								<li>Biodata Wisudawan</li>
+								<li>Lembar Telaah POMITS ( 2 Buah : Penguji dan Pembimbing )</li>
+								<li>Lembar Revisi Tugas Akhir ( 2 Buah : Penguji dan Pembimbing )</li>
+								<li>Poster A3</li>
+								<li>Bukti telah mengupload File POMITS</li>
+								<li>
+									Tugas Akhir berbentuk CD yang isinya :
+									<ol>[SOFTCOPY] :
+										<li>Poster TA</li>
+										<li>Artikel POMITS (dalam format .doc dan .pdf)</li>
+										<li>Video TA</li>
+										<li>Buku TA</li>
+										<li>Presentasi TA</li>
+									</ol>
+								</li>
+							</ol>
 						</div>
 					</div>
 				</div>
@@ -550,7 +587,7 @@
 									<div class="col-lg-10">
 										<div class="testimonial testimonial-style-2 testimonial-with-quotes custom-testimonial-style-1">
 											<blockquote>
-												<p>Dengan adanya Informatics Open Library ini pencarian literatur ilmiah semakin mudah dan terintegrasi</p>
+												<p>Dengan adanya Informatic Open Library ini pencarian literatur ilmiah semakin mudah dan terintegrasi</p>
 											</blockquote>
 											<div class="testimonial-author">
 												<!-- <img src="img/demos/education/authors/author-1.jpg" class="img-fluid rounded-circle" alt /> -->
@@ -886,16 +923,23 @@
 
 
 
-		<!-- Google Analytics: Change UA-XXXXX-X to be your site's ID. Go to http://www.google.com/analytics/ for more information. -->
-		<script>
-			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-		
-			ga('create', 'UA-143785992-1', 'auto');
-			ga('send', 'pageview');
-		</script>
+	<!-- Google Analytics: Change UA-XXXXX-X to be your site's ID. Go to http://www.google.com/analytics/ for more information. -->
+	<script>
+		(function(i, s, o, g, r, a, m) {
+			i['GoogleAnalyticsObject'] = r;
+			i[r] = i[r] || function() {
+				(i[r].q = i[r].q || []).push(arguments)
+			}, i[r].l = 1 * new Date();
+			a = s.createElement(o),
+				m = s.getElementsByTagName(o)[0];
+			a.async = 1;
+			a.src = g;
+			m.parentNode.insertBefore(a, m)
+		})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+		ga('create', 'UA-143785992-1', 'auto');
+		ga('send', 'pageview');
+	</script>
 
 
 
