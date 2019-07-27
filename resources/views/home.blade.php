@@ -296,7 +296,7 @@
 						<div class="col-md-12 text-center">
 							<h2 class="font-weight-bold mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1500">Recent News</h2>
 						</div>
-						<div class="col-md-6">
+						<div class="col-md-6" style="margin-bottom: 50px">
 							<div class="embed-responsive embed-responsive-16by9">
 								<iframe max-width="853" max-height="480" src="https://www.youtube.com/embed/EHlVz1XSfZU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 							</div>
