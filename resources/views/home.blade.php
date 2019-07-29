@@ -286,6 +286,7 @@
 							<a href="/openlibrary/pdf/Akses_VPN_untuk_Dosen_Tendik_dan_Mahasiswa.pdf" class="btn btn-primary text-1 btn-outline custom-btn-style-1 font-weight-semibold appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1900" data-plugin-options="{'accY': 100}" style="margin:10px 10px">PANDUAN VPN</a>
 							<a href="https://docs.google.com/forms/d/e/1FAIpQLSe_9vtv2LhOAKdiaOLrjWMaF5gLo94efgPMdlhgLAu4Ch8rzg/viewform" class="btn btn-primary text-1 btn-outline custom-btn-style-1 font-weight-semibold appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1900" data-plugin-options="{'accY': 100}" style="margin:10px 10px">USULAN BUKU BARU</a>
 							<a href="https://docs.google.com/forms/d/1GbnZb3XPj4F9CzZKhHUEkgpt5DRT_ZSX31OCNkI4c-8/edit" class="btn btn-primary text-1 btn-outline custom-btn-style-1 font-weight-semibold appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1900" data-plugin-options="{'accY': 100}" style="margin:10px 10px">SURVEY KEBUTUHAN INFROMASI</a>
+							<a href="http://rbtc.if.its.ac.id/v8/login2/index.php" class="btn btn-primary text-1 btn-outline custom-btn-style-1 font-weight-semibold appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1900" data-plugin-options="{'accY': 100}" style="margin:10px 10px">SELF SERVICES SIRKULASI</a>
 						</div>
 					</div>
 				</div>
